@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:27:24.495500+00:00",
+  "updated": "2026-11-10T18:42:55.608295+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -101,40 +101,31 @@
       "ft": true
     },
     {
-      "title": "Technology-Mediated Services in Health Care: Evaluating Telehealth Delivery Models for Underserved Populations",
-      "authors": "Kyuyeon (Jenny) Rhee, Xiao Liu, Suparerk Lekwijit, Pei-Yu Chen",
-      "journal": "Information Systems Research",
+      "title": "Fostering Information Disclosure in Telemental Healthcare Settings: How Telehealth Can Mitigate the Deleterious Effects of Stigma",
+      "authors": "Ryan Raimi, Paul Benjamin Lowry, Detmar W. Straub",
+      "journal": "Journal of Management Information Systems",
       "year": 2026,
-      "url": "https://doi.org/10.1287/isre.2024.1104",
+      "url": "https://doi.org/10.1080/07421222.2026.2647466",
       "utd": true,
-      "ft": true
+      "ft": false
     },
     {
-      "title": "Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms",
-      "authors": "Minghong Yuan, Wen Wen, Indranil Roy Bardhan",
-      "journal": "Information Systems Research",
+      "title": "Physicians’ Contributions to Online Healthcare Platforms: Relative Effects of Herding Cues and Feedback Types",
+      "authors": "Liuan Wang, Hillol Bala, Lu (Lucy) Yan, Xitong Guo",
+      "journal": "Journal of Management Information Systems",
       "year": 2026,
-      "url": "https://doi.org/10.1287/isre.2025.2332",
+      "url": "https://doi.org/10.1080/07421222.2025.2602402",
       "utd": true,
-      "ft": true
+      "ft": false
     },
     {
-      "title": "Ripples of Emotion: Unraveling the Dynamics of Emotion Flows and User Engagement in Online Healthcare Communities",
-      "authors": "Tongxin Zhou, Jingyi Sun",
-      "journal": "Information Systems Research",
+      "title": "Do Mildly Ill Patients Really Need an Offline Doctor? Deciphering Health Choices from Artificial Intelligence Diagnostic Design and Trust Dynamics",
+      "authors": "Aihui Chen, Yaobin Lu",
+      "journal": "Journal of Management Information Systems",
       "year": 2026,
-      "url": "https://doi.org/10.1287/isre.2023.0724",
+      "url": "https://doi.org/10.1080/07421222.2025.2602395",
       "utd": true,
-      "ft": true
-    },
-    {
-      "title": "Healthcare at the Crossroads: Impacts of Online Health Community on Off-line Healthcare Quality and Equity",
-      "authors": "Ji Wu, Yulin Fang, J. Leon Zhao, Xinyu Zhu",
-      "journal": "Information Systems Research",
-      "year": 2026,
-      "url": "https://doi.org/10.1287/isre.2022.0250",
-      "utd": true,
-      "ft": true
+      "ft": false
     },
     {
       "title": "Transactive Memory Systems and Hospital Trauma Team Performance: Shared Experience in Action Teams",
@@ -153,6 +144,15 @@
       "url": "https://doi.org/10.1287/opre.2022.0066",
       "utd": true,
       "ft": true
+    },
+    {
+      "title": "Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation",
+      "authors": "Sijia Zhou, Yanzhen Chen, Xin Li",
+      "journal": "Journal of Management Information Systems",
+      "year": 2025,
+      "url": "https://doi.org/10.1080/07421222.2025.2520180",
+      "utd": true,
+      "ft": false
     },
     {
       "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
