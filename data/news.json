@@ -1,49 +1,261 @@
 {
-  "updated": "2026-11-10T00:00:00Z",
+  "updated": "2026-11-10T18:27:24.495500+00:00",
   "items": [
     {
-      "title": "AMA: physicians shouldn’t be the last line of defense against clinical AI harm",
-      "url": "https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare",
-      "date": "2026-11-06",
-      "source": "Healthcare Dive via TechTarget",
+      "title": "STAT+: Men’s use of chatbots for therapy, and earnings season highlights",
+      "url": "https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "In this edition of STAT Health Tech: Growing optimism around chatbots and men who avoid therapy, and highlights from the earnings season.",
       "tags": [
-        "ai",
-        "pol"
-      ],
-      "summary": "The AMA argues doctors can’t be held responsible for harm when much of AI development and deployment is outside their control."
+        "biz"
+      ]
     },
     {
-      "title": "Treat AI chatbots as shared decision-making aids, not oracles",
-      "url": "https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare",
-      "date": "2026-11-03",
-      "source": "TechTarget Health IT Analytics",
-      "tags": [
-        "ai"
-      ],
-      "summary": "Framing chatbots as support for patient-clinician conversations can help engagement while limiting risk."
-    },
-    {
-      "title": "Doximity’s dose-verification tool beats general-purpose AI models",
-      "url": "https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare",
-      "date": "2026-11-02",
-      "source": "Healthcare Dive",
+      "title": "STAT+: Oura to acquire Counsel Health for $625 million, placing a big bet on AI care",
+      "url": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup.",
       "tags": [
         "ai",
         "biz"
-      ],
-      "summary": "Company research claims its clinical AI outperformed general models as large AI labs enter healthcare."
+      ]
     },
     {
-      "title": "91% of patients want to approve AI use in diagnosis; 64% of providers plan AI for claims and denials",
-      "url": "https://www.healthcareittoday.com/?p=2537901",
-      "date": "2026-11-01",
+      "title": "Preparing for the OBBBA Revenue Cycle Shockwave: Strategies Outlined at HPS26",
+      "url": "https://www.healthcareittoday.com/2026/11/10/preparing-for-the-obbba-revenue-cycle-shockwave-strategies-outlined-at-hps26/",
+      "date": "2026-11-10",
       "source": "Healthcare IT Today",
+      "summary": "The One Big Beautiful Bill Act (OBBBA) is set to upend revenue cycle workflows by tying Medicaid coverage to strict, proactive employment verification. Discover how IT leaders at HPS26 are rethinking their patient…",
       "tags": [
-        "ai",
         "biz",
         "pol"
-      ],
-      "summary": "Survey figures from the weekly roundup show a gap between patient consent expectations and provider revenue-cycle plans."
+      ]
+    },
+    {
+      "title": "Why Access to Your Own Records Shouldn’t Be a Fight",
+      "url": "https://www.healthcareittoday.com/2026/11/10/why-access-to-your-own-records-shouldnt-be-a-fight/",
+      "date": "2026-11-10",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by James Bateman, Co-Founder and CEO at Marble The idea for my company started with my father-in-law’s cancer treatment. My mother-in-law was the one who bore the burden of it: gathering…",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
+      "url": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of…",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "TailorMed Announces Majority Investment from GrowthCurve Capital | Heidi Secures US$340M",
+      "url": "https://www.healthcareittoday.com/2026/11/10/tailormed-announces-majority-investment-from-growthcurve-capital-heidi-secures-us340m/",
+      "date": "2026-11-10",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. TailorMed Announces Majority Investment from GrowthCurve Capital…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
+      "url": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "Dutch antitrust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
+      "url": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+      "url": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
+      "date": "2026-11-10",
+      "source": "STAT",
+      "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/10/26",
+      "url": "https://histalk2.com/2026/11/09/morning-headlines-11-10-26/",
+      "date": "2026-11-09",
+      "source": "HIStalk",
+      "summary": "$5+ billion AI healthcare company confirms layoffs Healthcare AI documentation company Abridge confirms it has laid off an unspecified number of employees as part of an organizational realignment. Trump Administration…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
+      "url": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
+      "date": "2026-11-09",
+      "source": "STAT",
+      "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Four states sue HHS to stop Medicaid work requirements",
+      "url": "https://www.healthcaredive.com/news/four-states-sue-hhs-to-stop-medicaid-work-requirements/874191/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "Four states have filed a lawsuit asking the court to delay implementation of Medicaid work requirements less than 60 days ahead of the implementation deadline.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Hospitals write off $132B as AI fails to move the needle with finances",
+      "url": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "Hospitals are losing more money from bad debt and write-offs despite investing billions into automation to improve financial performance and remain competitive in the AI arms race.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
+      "url": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
+      "date": "2026-11-09",
+      "source": "STAT",
+      "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Using AI to Build, Troubleshoot, and Optimize Healthcare Integrations",
+      "url": "https://www.healthcareittoday.com/2026/11/09/using-ai-to-build-troubleshoot-and-optimize-healthcare-integrations/",
+      "date": "2026-11-09",
+      "source": "Healthcare IT Today",
+      "summary": "As healthcare organizations build and maintain increasingly complex integrations, troubleshooting and optimizing those connections can take up a significant amount of an integration team’s time. That’s where AI tools…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: FDA warns GLP-1 drugs carry potential risk of rare eye condition",
+      "url": "https://www.statnews.com/2026/11/09/glp-1-drugs-potential-risk-rare-eye-condition-naion-fda/?utm_campaign=rss",
+      "date": "2026-11-09",
+      "source": "STAT",
+      "summary": "The FDA on Monday warned that GLP-1 drugs carry a potential risk for a rare but serious eye condition that's sometimes referred to as an \"eye stroke.\"",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "AWS pledges $100M in cloud, AI credits to close health equity gaps",
+      "url": "https://www.healthcaredive.com/news/aws-pledges-100m-in-cloud-ai-credits-to-close-health-equity-gaps/874103/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "Amazon Web Services will distribute the funds as credits rather than cash to organizations working on care access, women's and children's health and food insecurity.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "XRHealth Acquires Living Brain | Equiti Acquires Lexi AI",
+      "url": "https://www.healthcareittoday.com/2026/11/09/xrhealth-acquires-living-brain-equiti-acquires-lexi-ai/",
+      "date": "2026-11-09",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. XRHealth Acquires Living Brain, Expanding Immersive Cognitive Training and…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "More AI won’t fix healthcare’s revenue cycle. Orchestration will.",
+      "url": "https://www.healthcaredive.com/spons/more-ai-wont-fix-healthcares-revenue-cycle-orchestration-will/873614/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "Most providers automate revenue with AI. Only 4% have connected it. Orchestration is what comes next.",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "How rural healthcare organizations are turning AI investments into measurable performance improvements",
+      "url": "https://www.healthcaredive.com/spons/how-rural-healthcare-organizations-are-turning-ai-investments-into-measurab/873543/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "Better data, stronger governance and targeted use cases are driving results in rural healthcare.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "What does AI governance really mean in healthcare?",
+      "url": "https://www.healthcaredive.com/spons/what-does-ai-governance-really-mean-in-healthcare/873027/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "AI governance doesn't stop at launch. Here are the five must-ask questions.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/9/26",
+      "url": "https://histalk2.com/2026/11/08/morning-headlines-11-9-26/",
+      "date": "2026-11-08",
+      "source": "HIStalk",
+      "summary": "Five9 to Acquire Level AI, Advancing AI-Powered CX Platform Five9 will acquire Level AI for approximately $325 million in cash to expand its contact center AI capabilities, including automated interactions, agent…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "Monday Morning Update 11/9/26",
+      "url": "https://histalk2.com/2026/11/08/monday-morning-update-11-9-26/",
+      "date": "2026-11-08",
+      "source": "HIStalk",
+      "summary": "Top News Abridge lays off an undisclosed number of employees in an organization-wide realignment, saying that it wants to flatten its structure and accelerate product development. The AI documentation vendor, which…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Bonus Features – November 8, 2026 – 48% of Americans have used AI to review their health insurance options, 68% would independently verify AI-generated medication details, plus 34 more stories",
+      "url": "https://www.healthcareittoday.com/2026/11/08/bonus-features-november-8-2026-48-of-americans-have-used-ai-to-review-their-health-insurance-options-68-would-independently-verify-ai-generated-medication-details-plus-34-more-s/",
+      "date": "2026-11-08",
+      "source": "Healthcare IT Today",
+      "summary": "Welcome to the weekly edition of Healthcare IT Today Bonus Features. This article will be a weekly roundup of interesting stories, product announcements, new hires, partnerships, research studies, awards, sales, and…",
+      "tags": [
+        "ai"
+      ]
     }
   ]
 }

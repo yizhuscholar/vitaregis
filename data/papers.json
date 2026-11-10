@@ -1,21 +1,165 @@
 {
-  "updated": "2026-11-10T00:00:00Z",
+  "updated": "2026-11-10T18:27:24.495500+00:00",
   "items": [
     {
-      "title": "Using Artificial Intelligence as Gatekeeper or Second Opinion: Designing Patient Pathways for AI-Augmented Healthcare",
-      "authors": "Tinglong Dai, Simrita Singh",
-      "journal": "Production and Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1177/10591478251403269",
-      "utd": false,
+      "title": "Health Shocks and Annuity Choices",
+      "authors": "Johannes Hagen, Michal Hodor, Abigail Hurwitz",
+      "journal": "Management Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mnsc.2025.00682",
+      "utd": true,
       "ft": true
     },
     {
-      "title": "Physician Adoption of AI Assistant",
-      "authors": "Ting Hou, Meng Li, Yinliang Tan, Huazhong Zhao",
+      "title": "The Role of Physician Integration in Alternative Payment Models: The Case of the Comprehensive Joint Replacement Program",
+      "authors": "Christopher J. Chen, Kraig Delana",
+      "journal": "Management Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mnsc.2022.02547",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "The Impacts of “Baby-Friendly” Hospital Designations",
+      "authors": "Orgül Öztürk, Danna Thomas, Lindsey Woodworth",
+      "journal": "Management Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mnsc.2024.06422",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "The Power of Data: Assessing Primary Care Performance Using Routinely Collected Emergency Department Data",
+      "authors": "Nicos Savva, Sandra Sülz, Mark Kinirons, Emer Sutherland et al.",
+      "journal": "Management Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mnsc.2023.03234",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Early Reservation for Follow-up Appointments: Enhancing Patient Care Continuity",
+      "authors": "Yichuan Ding, Diwakar Gupta, Shenghai Zhou",
       "journal": "Manufacturing & Service Operations Management",
-      "year": 2024,
-      "url": "https://doi.org/10.1287/msom.2023.0093",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/msom.2025.0321",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Utilization: Is More Always Better? Zone of Efficiency, Complexity, and Costs of Care",
+      "authors": "Sriram Thirumalai, Sarv Devaraj",
+      "journal": "Manufacturing & Service Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/msom.2023.0702",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Capacity Management in Networks: A Structural Estimation Approach for Hospital Inpatient Wards",
+      "authors": "Jing Dong, Pengyi Shi, Fanyin Zheng, Xin Jin",
+      "journal": "Manufacturing & Service Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/msom.2023.0700",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Cross-Cluster Referrals and Subsidy Schemes in Multi-Cluster Healthcare Systems",
+      "authors": "Liming Liu, Weixin Shang, Xiuli Chao, Shaohui Zheng",
+      "journal": "Manufacturing & Service Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/msom.2018.0526",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Planning a Community Approach to Diabetes Care in Low- and Middle-Income Countries Using Optimization",
+      "authors": "Katherine B. Adams, Justin J. Boutilier, Sarang Deo, Yonatan Mintz",
+      "journal": "Operations Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/opre.2023.0248",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Appointment Scheduling of Outpatient Clinical Services Under Uncertain Patient Flows",
+      "authors": "Youhua (Frank) Chen, Qi Feng, J. George Shanthikumar, Yang Yang",
+      "journal": "Operations Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/opre.2022.0353",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Multilocation, Dynamic Staff Planning for a Healthcare System: Methodology and Application",
+      "authors": "Sandeep Rath, Kumar Rajaram, Mark E. Hudson, Aman Mahajan",
+      "journal": "Operations Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/opre.2023.0438",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Technology-Mediated Services in Health Care: Evaluating Telehealth Delivery Models for Underserved Populations",
+      "authors": "Kyuyeon (Jenny) Rhee, Xiao Liu, Suparerk Lekwijit, Pei-Yu Chen",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2024.1104",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms",
+      "authors": "Minghong Yuan, Wen Wen, Indranil Roy Bardhan",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2025.2332",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Ripples of Emotion: Unraveling the Dynamics of Emotion Flows and User Engagement in Online Healthcare Communities",
+      "authors": "Tongxin Zhou, Jingyi Sun",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2023.0724",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Healthcare at the Crossroads: Impacts of Online Health Community on Off-line Healthcare Quality and Equity",
+      "authors": "Ji Wu, Yulin Fang, J. Leon Zhao, Xinyu Zhu",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2022.0250",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Transactive Memory Systems and Hospital Trauma Team Performance: Shared Experience in Action Teams",
+      "authors": "Linda Argote, Jerry Guo, Ki-Won Haan, Matthew R. Rosengart et al.",
+      "journal": "Organization Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/orsc.2024.19022",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Dynamic Control of Service Systems with Returns: Application to Design of Postdischarge Hospital Readmission Prevention Programs",
+      "authors": "Timothy C. Y. Chan, Simon Y. Huang, Vahid Sarhangian",
+      "journal": "Operations Research",
+      "year": 2025,
+      "url": "https://doi.org/10.1287/opre.2022.0066",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
+      "authors": "Shirish Sundaresan, Isin Guler",
+      "journal": "Organization Science",
+      "year": 2025,
+      "url": "https://doi.org/10.1287/orsc.2022.16738",
       "utd": true,
       "ft": true
     }
