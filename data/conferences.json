@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "when": "Apr 5 to 8, 2027",
+      "name": "HIMSS27 Global Health Conference & Exhibition",
+      "where": "McCormick Place, Chicago",
+      "url": "https://www.himssconference.com/why-attend/",
+      "confirmed": true
+    },
+    {
+      "when": "Apr 12 to 15, 2027",
+      "name": "AMIA 2027 Amplify Informatics Conference",
+      "where": "Atlanta, Georgia",
+      "url": "https://amia.org/education-events/2027-amplify-informatics-conference",
+      "confirmed": true
+    },
+    {
+      "when": "Jun 8 to 10, 2027",
+      "name": "HIMSS European Health Conference & Exhibition",
+      "where": "Barcelona, Spain",
+      "url": "https://himss.org/news-center/himss26-europe-shapes-healthcare-s-future-through-collaborative-innovation/",
+      "confirmed": true
+    },
+    {
+      "when": "Mar 15 to 21, 2027",
+      "name": "SXSW Health and MedTech Track",
+      "where": "Austin, Texas (track dates TBA)",
+      "url": "https://fiercehealthcare.com/special-reports/healthcare-conferences-put-your-calendar-2024-2025",
+      "confirmed": true
+    },
+    {
+      "when": "Fall, annually",
+      "name": "HLTH",
+      "where": "Las Vegas",
+      "url": "https://hlth.com/",
+      "confirmed": false
+    },
+    {
+      "when": "Fall, annually",
+      "name": "INFORMS Annual Meeting",
+      "where": "Healthcare analytics tracks",
+      "url": "https://www.informs.org/",
+      "confirmed": false
+    },
+    {
+      "when": "Winter, annually",
+      "name": "International Conference on Information Systems (ICIS)",
+      "where": "Health IT research",
+      "url": "https://aisnet.org/",
+      "confirmed": false
+    },
+    {
+      "when": "Dec, annually",
+      "name": "NeurIPS, ML4H workshop",
+      "where": "Machine learning for health",
+      "url": "https://neurips.cc/",
+      "confirmed": false
+    },
+    {
+      "when": "Annually",
+      "name": "HFMA Annual Conference",
+      "where": "Healthcare finance",
+      "url": "https://www.hfma.org/",
+      "confirmed": false
+    }
+  ]
+}

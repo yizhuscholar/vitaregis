@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pulse: Healthcare, AI &amp; Business Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  --bg:#F2F5F4; --surface:#FFFFFF; --ink:#14262B; --muted:#5A6B70; --line:#D5DEDC;
+  --accent:#2547D0; --accent-ink:#FFFFFF; --mint:#CDEBDD; --mint-ink:#0F4A33; --amber:#E8A93A; --amber-bg:#FBEFD3; --amber-ink:#6B4300;
+  --serif:'Newsreader',Georgia,'Times New Roman',serif;
+  --sans:'Instrument Sans',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E1B1F; --surface:#15272C; --ink:#E6EFEE; --muted:#9DB0B3; --line:#274046;
+    --accent:#7F9BFF; --accent-ink:#0E1B1F; --mint:#1B4034; --mint-ink:#BDEBD6; --amber:#E8A93A; --amber-bg:#3A2D12; --amber-ink:#F6D58F;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E1B1F; --surface:#15272C; --ink:#E6EFEE; --muted:#9DB0B3; --line:#274046;
+  --accent:#7F9BFF; --accent-ink:#0E1B1F; --mint:#1B4034; --mint-ink:#BDEBD6; --amber:#E8A93A; --amber-bg:#3A2D12; --amber-ink:#F6D58F;
+  color-scheme:dark;
+}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 72px);scroll-behavior:smooth}
+*,*::before,*::after{box-sizing:inherit}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 var(--sans);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--bg);z-index:30}
+a{color:var(--accent);text-underline-offset:3px}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--amber);outline-offset:2px;border-radius:4px}
+
+/* layout */
+.shell{display:grid;grid-template-columns:230px minmax(0,1fr);max-width:1180px;margin:0 auto}
+nav.rail{position:sticky;top:env(safe-area-inset-top,0px);align-self:start;height:100vh;padding:28px 20px;border-right:1px solid var(--line);display:flex;flex-direction:column;gap:6px}
+.brand{font:600 26px/1 var(--serif);letter-spacing:-.01em;margin-bottom:4px}
+.brand-sub{color:var(--muted);font-size:13px;margin-bottom:22px}
+nav.rail a.link{display:flex;justify-content:space-between;align-items:center;padding:9px 12px;border-radius:8px;color:var(--ink);text-decoration:none;font-weight:500;font-size:15px}
+nav.rail a.link span.n{font-size:12px;color:var(--muted);font-weight:400}
+nav.rail a.link:hover{background:var(--mint)}
+nav.rail a.link.on{background:var(--ink);color:var(--bg)}
+nav.rail a.link.on span.n{color:var(--bg);opacity:.7}
+.rail-foot{margin-top:auto;font-size:12.5px;color:var(--muted)}
+.rail-foot p{margin:0 0 8px}
+main{padding:28px 32px 80px;min-width:0}
+
+/* hero */
+.hero{padding:8px 0 30px;border-bottom:1px solid var(--line);margin-bottom:12px}
+.hero h1{font:400 clamp(34px,5.2vw,60px)/1.02 var(--serif);letter-spacing:-.02em;margin:0 0 14px;max-width:16ch}
+.hero p{margin:0;color:var(--muted);max-width:56ch;font-size:17px}
+.ecg{display:block;width:100%;height:56px;margin:22px 0 0}
+.ecg path{fill:none;stroke:var(--accent);stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.6s ease-out .2s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.ecg path{animation:none;stroke-dashoffset:0}html{scroll-behavior:auto}}
+
+section{padding:42px 0 6px}
+section>header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 20px;margin-bottom:6px}
+section h2{font:600 clamp(26px,3.2vw,34px)/1.1 var(--serif);letter-spacing:-.015em;margin:0}
+.meta{color:var(--muted);font-size:14px}
+.lede{color:var(--muted);margin:6px 0 20px;max-width:62ch}
+
+/* chips + controls */
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
+.chip{font:500 14px/1 var(--sans);padding:9px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.field{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 18px}
+.field input{flex:1 1 220px;min-width:0;font:400 15px var(--sans);padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.field label{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--muted);flex:1 1 220px}
+
+/* news */
+.news{display:grid;gap:0;border-top:1px solid var(--ink)}
+.item{display:grid;grid-template-columns:86px 1fr;gap:6px 22px;padding:18px 0;border-bottom:1px solid var(--line)}
+.item time{font-size:14px;color:var(--muted);padding-top:3px}
+.item h3{font:600 20px/1.25 var(--serif);margin:0 0 6px}
+.item h3 a{color:var(--ink);text-decoration:none}
+.item h3 a:hover{color:var(--accent);text-decoration:underline}
+.item p{margin:0 0 8px;color:var(--muted);font-size:15px;max-width:68ch}
+.tags{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:13px;color:var(--muted)}
+.tag{padding:2px 9px;border-radius:999px;background:var(--mint);color:var(--mint-ink);font-size:12.5px;font-weight:500}
+.tag.biz{background:var(--amber-bg);color:var(--amber-ink)}
+.tag.pol{background:transparent;border:1px solid var(--line);color:var(--muted)}
+.sub-h{font:600 18px var(--serif);margin:30px 0 10px}
+.feeds{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px}
+.feed{display:block;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--surface);text-decoration:none;color:var(--ink)}
+.feed:hover{border-color:var(--accent)}
+.feed b{display:block;font-weight:600;font-size:15px}
+.feed span{font-size:13px;color:var(--muted)}
+
+/* publications */
+.paper{padding:16px 18px;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;background:var(--surface);margin-bottom:12px}
+.paper h3{font:600 18px/1.3 var(--serif);margin:0 0 4px}
+.paper .by{font-size:14px;color:var(--muted);margin:0 0 6px}
+.paper p.s{margin:0;font-size:14.5px}
+.badge{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:6px;margin-right:6px}
+.badge.utd{background:var(--ink);color:var(--bg)}
+.badge.ft{background:var(--amber-bg);color:var(--amber-ink)}
+.table-wrap{overflow-x:auto;max-width:100%;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:15px}
+th,td{text-align:left;padding:11px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;font-size:13px;color:var(--muted);background:var(--bg)}
+tr:last-child td{border-bottom:0}
+.note{font-size:13.5px;color:var(--muted);margin:12px 0 0;max-width:70ch}
+
+/* conferences */
+.confs{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.conf{padding:18px;border:1px solid var(--line);border-radius:12px;background:var(--surface);display:flex;flex-direction:column;gap:6px}
+.conf .when{font:600 22px/1.1 var(--serif)}
+.conf h3{font:600 16px/1.3 var(--sans);margin:0}
+.conf .where{font-size:14px;color:var(--muted)}
+.conf .pill{align-self:flex-start;font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;background:var(--mint);color:var(--mint-ink)}
+.conf .pill.tbc{background:var(--amber-bg);color:var(--amber-ink)}
+.conf a{margin-top:auto;font-size:14px;font-weight:500}
+
+/* jobs */
+.boards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.board{display:flex;flex-direction:column;gap:3px;padding:14px 16px;border:1px solid var(--line);border-radius:10px;background:var(--surface);text-decoration:none;color:var(--ink)}
+.board:hover{border-color:var(--accent)}
+.board b{font-weight:600}
+.board span{font-size:13px;color:var(--muted)}
+
+footer{margin-top:56px;padding-top:20px;border-top:1px solid var(--line);font-size:13.5px;color:var(--muted);max-width:72ch}
+
+/* mobile */
+.topbar{display:none}
+@media (max-width:860px){
+  .shell{display:block}
+  nav.rail{display:none}
+  .topbar{display:flex;position:sticky;top:env(safe-area-inset-top,0px);z-index:20;gap:6px;overflow-x:auto;padding:10px 16px;background:var(--bg);border-bottom:1px solid var(--line)}
+  .topbar a{flex:0 0 auto;padding:8px 13px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);text-decoration:none;font-size:14px;font-weight:500}
+  main{padding:20px 18px 70px}
+  .item{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="topbar" aria-label="Sections">
+  <a href="#news">News</a><a href="#papers">Publications</a><a href="#conferences">Conferences</a><a href="#jobs">Jobs</a>
+</div>
+<div class="shell">
+  <nav class="rail" aria-label="Sections">
+    <div class="brand">Pulse</div>
+    <div class="brand-sub">Healthcare, IT, AI and business in one place</div>
+    <a class="link on" href="#news">News <span class="n">7 days</span></a>
+    <a class="link" href="#papers">Publications <span class="n">5 years</span></a>
+    <a class="link" href="#conferences">Conferences <span class="n">2027</span></a>
+    <a class="link" href="#jobs">Jobs <span class="n">live search</span></a>
+    <div class="rail-foot">
+      <p id="railUpdated">Updated daily.</p>
+      <p>Links open the original source.</p>
+    </div>
+  </nav>
+
+  <main>
+    <div class="hero">
+      <h1>What healthcare and AI leaders are reading this week</h1>
+      <p>Headlines, research from top business journals, conferences to plan around, and open roles. Refreshed automatically every day.</p>
+      <svg class="ecg" viewBox="0 0 900 56" preserveAspectRatio="none" aria-hidden="true">
+        <path d="M0 30 H170 l12 -4 l12 4 H260 l10 4 l14 -26 l16 48 l14 -30 l8 8 H420 l12 -5 l12 5 H560 l10 4 l14 -26 l16 48 l14 -30 l8 8 H720 l12 -5 l12 5 H900"/>
+      </svg>
+    </div>
+
+    <!-- NEWS -->
+    <section id="news">
+      <header><h2>Top news this week</h2><span class="meta">Nov 1 to Nov 10, 2026</span></header>
+      <p class="lede">Healthcare AI, health IT and the business side of care delivery. <span id="updated" class="meta"></span></p>
+      <div class="chips" role="group" aria-label="Filter news">
+        <button class="chip" data-f="all" aria-pressed="true">All</button>
+        <button class="chip" data-f="ai" aria-pressed="false">Healthcare AI</button>
+        <button class="chip" data-f="biz" aria-pressed="false">Business</button>
+        <button class="chip" data-f="pol" aria-pressed="false">Policy</button>
+      </div>
+      <div class="news" id="newsList"><p class="note" id="newsEmpty">Loading news…</p></div>
+
+      <h3 class="sub-h">Keep reading: trusted weekly sources</h3>
+      <div class="feeds">
+        <a class="feed" href="https://healthaiinsights.substack.com/" target="_blank" rel="noopener"><b>Health AI Insights</b><span>Weekly executive digest</span></a>
+        <a class="feed" href="https://histalk2.com/category/healthcare-ai-news/" target="_blank" rel="noopener"><b>HIStalk: Healthcare AI News</b><span>Health IT and AI, twice weekly</span></a>
+        <a class="feed" href="https://www.healthcareittoday.com/" target="_blank" rel="noopener"><b>Healthcare IT Today</b><span>Weekly roundup, funding, jobs</span></a>
+        <a class="feed" href="https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare" target="_blank" rel="noopener"><b>TechTarget Health IT Analytics</b><span>AI in healthcare top stories</span></a>
+        <a class="feed" href="https://www.lqventures.com/" target="_blank" rel="noopener"><b>LQ Ventures</b><span>AI and digital health weekly</span></a>
+      </div>
+    </section>
+
+    <!-- PUBLICATIONS -->
+    <section id="papers">
+      <header><h2>Research from top business journals</h2><span class="meta">Window: 2022 to 2026</span></header>
+      <p class="lede">Healthcare research in UTD 24 and FT 50 journals. Pick a topic, then open a journal to see its last five years of matching articles.</p>
+
+      <h3 class="sub-h" style="margin-top:6px">Latest from top journals</h3>
+      <div id="latestPapers"><p class="note">Loading papers…</p></div>
+
+      <h3 class="sub-h">Browse by journal</h3>
+      <div class="chips" id="topicChips" role="group" aria-label="Topic">
+        <button class="chip" data-q="healthcare" aria-pressed="true">Healthcare</button>
+        <button class="chip" data-q="healthcare artificial intelligence" aria-pressed="false">Healthcare AI</button>
+        <button class="chip" data-q="hospital operations" aria-pressed="false">Hospital operations</button>
+        <button class="chip" data-q="telemedicine OR telehealth" aria-pressed="false">Telehealth</button>
+        <button class="chip" data-q="electronic health records" aria-pressed="false">Health IT and EHR</button>
+        <button class="chip" data-q="health insurance OR payer" aria-pressed="false">Payers and insurance</button>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Journal</th><th>List</th><th>Strength for healthcare</th><th>Last 5 years</th></tr></thead>
+          <tbody id="journalRows"></tbody>
+        </table>
+      </div>
+      <p class="note">List membership is shown from the commonly published UTD 24 and FT 50 lists; confirm against the official lists before citing. Journal links open a Google Scholar search limited to 2022 onward.</p>
+    </section>
+
+    <!-- CONFERENCES -->
+    <section id="conferences">
+      <header><h2>Conferences to plan around</h2><span class="meta">Healthcare business, IT and AI</span></header>
+      <p class="lede">Confirmed dates first. Items marked “Confirm dates” recur yearly; check the organizer for the 2027 edition.</p>
+      <div class="confs" id="confList"></div>
+    </section>
+
+    <!-- JOBS -->
+    <section id="jobs">
+      <header><h2>Healthcare, business and AI roles</h2><span class="meta">Posted in the last 7 days</span></header>
+      <p class="lede">Enter a role and location. Each board opens with your search and a seven-day filter, so results are current when you click.</p>
+      <div class="chips" id="roleChips" role="group" aria-label="Role">
+        <button class="chip" data-r="healthcare AI" aria-pressed="true">Healthcare AI</button>
+        <button class="chip" data-r="clinical informatics" aria-pressed="false">Informatics</button>
+        <button class="chip" data-r="healthcare data scientist" aria-pressed="false">Data science</button>
+        <button class="chip" data-r="healthcare strategy consultant" aria-pressed="false">Strategy and consulting</button>
+        <button class="chip" data-r="digital health product manager" aria-pressed="false">Product</button>
+        <button class="chip" data-r="health system operations analyst" aria-pressed="false">Operations</button>
+      </div>
+      <div class="field">
+        <label>Role keywords<input id="jobQ" value="healthcare AI" autocomplete="off"></label>
+        <label>Location<input id="jobL" value="United States" autocomplete="off"></label>
+      </div>
+      <div id="jobList"></div>
+      <h3 class="sub-h">Search more boards</h3>
+      <div class="boards" id="boards"></div>
+      <p class="note">Academic and faculty positions: INFORMS and AIS job boards list tenure-track roles in healthcare analytics and health IT.</p>
+    </section>
+
+    <footer><p>Pulse refreshes automatically each day from public RSS feeds, the Crossref API and a curated conference list. Headlines link to the original source. Journal list membership (UTD 24, FT 50) should be checked against the official lists.</p></footer>
+  </main>
+</div>
+
+<script>
+(function(){
+  var enc = encodeURIComponent;
+
+  /* News filter */
+  var newsChips = document.querySelectorAll('.chip[data-f]');
+  newsChips.forEach(function(b){
+    b.addEventListener('click', function(){
+      newsChips.forEach(function(x){x.setAttribute('aria-pressed','false')});
+      b.setAttribute('aria-pressed','true');
+      var f = b.dataset.f;
+      document.querySelectorAll('#newsList .item').forEach(function(it){
+        it.style.display = (f==='all' || it.dataset.t.split(' ').indexOf(f)>-1) ? '' : 'none';
+      });
+    });
+  });
+
+  /* Journals */
+  var journals = [
+    {n:'Management Science', utd:1, ft:1, s:'Healthcare economics, operations, AI and decision-making'},
+    {n:'Manufacturing & Service Operations Management', utd:1, ft:1, s:'Hospital operations, capacity, patient flow'},
+    {n:'Operations Research', utd:1, ft:1, s:'Health system modeling and optimization'},
+    {n:'Journal of Operations Management', utd:1, ft:1, s:'Care delivery and supply chain'},
+    {n:'Production and Operations Management', utd:0, ft:1, s:'Healthcare operations and AI-augmented care'},
+    {n:'MIS Quarterly', utd:1, ft:1, s:'Health IT, EHR, digital health'},
+    {n:'Information Systems Research', utd:1, ft:1, s:'Telehealth, platforms, AI adoption'},
+    {n:'Journal of Management Information Systems', utd:1, ft:0, s:'Health information systems and analytics'},
+    {n:'INFORMS Journal on Computing', utd:1, ft:0, s:'Healthcare analytics methods'},
+    {n:'Marketing Science', utd:1, ft:1, s:'Pharma marketing, physician and patient choice'},
+    {n:'Journal of Marketing', utd:1, ft:1, s:'Health consumer behavior and services'},
+    {n:'Journal of Consumer Research', utd:1, ft:1, s:'Patient decisions and wellbeing'},
+    {n:'Strategic Management Journal', utd:1, ft:1, s:'Health industry strategy and innovation'},
+    {n:'Organization Science', utd:1, ft:1, s:'Clinical teams, technology and work'},
+    {n:'Academy of Management Journal', utd:1, ft:1, s:'Healthcare organizations and workforce'},
+    {n:'Journal of Finance', utd:1, ft:1, s:'Health insurance, hospital finance'},
+    {n:'The Accounting Review', utd:1, ft:1, s:'Hospital reporting and payment systems'},
+    {n:'Harvard Business Review', utd:0, ft:1, s:'Practitioner research on health care strategy and AI'}
+  ];
+  var q = 'healthcare';
+  function renderJournals(){
+    var rows = journals.map(function(j){
+      var url = 'https://scholar.google.com/scholar?as_ylo=2022&q=' + enc('source:"'+j.n+'" ('+q+')');
+      var lists = (j.utd?'<span class="badge utd">UTD 24</span>':'') + (j.ft?'<span class="badge ft">FT 50</span>':'');
+      return '<tr><td>'+j.n.replace(/&/g,'&amp;')+'</td><td>'+lists+'</td><td>'+j.s+'</td><td><a href="'+url+'" target="_blank" rel="noopener">Search 2022 to 2026</a></td></tr>';
+    });
+    document.getElementById('journalRows').innerHTML = rows.join('');
+  }
+  document.querySelectorAll('#topicChips .chip').forEach(function(b){
+    b.addEventListener('click', function(){
+      document.querySelectorAll('#topicChips .chip').forEach(function(x){x.setAttribute('aria-pressed','false')});
+      b.setAttribute('aria-pressed','true');
+      q = b.dataset.q; renderJournals();
+    });
+  });
+  renderJournals();
+
+  /* Jobs */
+  var jobQ = document.getElementById('jobQ'), jobL = document.getElementById('jobL');
+  function renderBoards(){
+    var k = enc(jobQ.value || 'healthcare AI'), l = enc(jobL.value || '');
+    var list = [
+      {n:'LinkedIn Jobs', d:'Past week, newest first', u:'https://www.linkedin.com/jobs/search/?keywords='+k+'&location='+l+'&f_TPR=r604800&sortBy=DD'},
+      {n:'Indeed', d:'Posted in last 7 days', u:'https://www.indeed.com/jobs?q='+k+'&l='+l+'&fromage=7&sort=date'},
+      {n:'Google Jobs', d:'Aggregates many boards', u:'https://www.google.com/search?q='+k+'+jobs+'+l+'&ibp=htl;jobs'},
+      {n:'HIMSS Job Mart', d:'Health IT and informatics', u:'https://jobs.himss.org/jobs/?keywords='+k},
+      {n:'Healthcare IT Today Jobs', d:'Weekly health IT listings', u:'https://www.healthcareittoday.com/?s='+k+'+jobs'},
+      {n:'Glassdoor', d:'Roles with salary and reviews', u:'https://www.glassdoor.com/Job/jobs.htm?sc.keyword='+k+'&fromAge=7'},
+      {n:'INFORMS Career Center', d:'Analytics and OR, including faculty', u:'https://careercenter.informs.org/jobs/?keywords='+k},
+      {n:'AIS Career Center', d:'Information systems, including faculty', u:'https://aisnet.org/search/custom.asp?id=5646'}
+    ];
+    document.getElementById('boards').innerHTML = list.map(function(b){
+      return '<a class="board" href="'+b.u+'" target="_blank" rel="noopener"><b>'+b.n+'</b><span>'+b.d+'</span></a>';
+    }).join('');
+  }
+  jobQ.addEventListener('input', renderBoards);
+  jobL.addEventListener('input', renderBoards);
+  document.querySelectorAll('#roleChips .chip').forEach(function(b){
+    b.addEventListener('click', function(){
+      document.querySelectorAll('#roleChips .chip').forEach(function(x){x.setAttribute('aria-pressed','false')});
+      b.setAttribute('aria-pressed','true');
+      jobQ.value = b.dataset.r; renderBoards();
+    });
+  });
+  renderBoards();
+
+
+  /* ---------- Data loading ---------- */
+  function el(tag, attrs, kids){
+    var e=document.createElement(tag);
+    Object.keys(attrs||{}).forEach(function(k){ if(k==='class') e.className=attrs[k]; else if(k==='text') e.textContent=attrs[k]; else e.setAttribute(k,attrs[k]); });
+    (kids||[]).forEach(function(c){ if(c) e.appendChild(typeof c==='string'?document.createTextNode(c):c); });
+    return e;
+  }
+  function safeUrl(u){ return /^https?:\/\//i.test(u||'') ? u : '#'; }
+  function load(name){ return fetch('data/'+name+'.json',{cache:'no-cache'}).then(function(r){ if(!r.ok) throw new Error(name); return r.json(); }); }
+  var TAGNAME={ai:'Healthcare AI',biz:'Business',pol:'Policy'};
+  function fmtDate(iso){ try{ return new Date(iso).toLocaleDateString('en-US',{month:'short',day:'numeric'}); }catch(e){ return ''; } }
+
+  load('news').then(function(d){
+    var box=document.getElementById('newsList'); box.textContent='';
+    if(d.updated){ var t=new Date(d.updated).toLocaleString('en-US',{dateStyle:'medium',timeStyle:'short'});
+      document.getElementById('updated').textContent='Last updated '+t+'.';
+      document.getElementById('railUpdated').textContent='Updated '+fmtDate(d.updated)+'.'; }
+    if(!d.items.length){ box.appendChild(el('p',{class:'note',text:'No matching stories in the past week.'})); return; }
+    d.items.forEach(function(it){
+      var tags=(it.tags||[]).map(function(t){ return el('span',{class:'tag'+(t==='biz'?' biz':t==='pol'?' pol':''),text:TAGNAME[t]||t}); });
+      tags.push(el('span',{text:it.source}));
+      box.appendChild(el('article',{class:'item','data-t':(it.tags||[]).join(' ')},[
+        el('time',{text:fmtDate(it.date)}),
+        el('div',{},[
+          el('h3',{},[el('a',{href:safeUrl(it.url),target:'_blank',rel:'noopener',text:it.title})]),
+          it.summary?el('p',{text:it.summary}):null,
+          el('div',{class:'tags'},tags)
+        ])
+      ]));
+    });
+  }).catch(function(){ document.getElementById('newsList').textContent='News data could not be loaded.'; });
+
+  load('papers').then(function(d){
+    var box=document.getElementById('latestPapers'); box.textContent='';
+    if(!d.items.length){ box.appendChild(el('p',{class:'note',text:'No papers loaded yet. Run the update workflow.'})); return; }
+    d.items.forEach(function(p){
+      var badges=[]; if(p.utd) badges.push(el('span',{class:'badge utd',text:'UTD 24'})); if(p.ft) badges.push(el('span',{class:'badge ft',text:'FT 50'}));
+      box.appendChild(el('div',{class:'paper'},[
+        el('h3',{text:p.title}),
+        el('p',{class:'by',text:(p.authors||'')+' · '+p.journal+' · '+p.year}),
+        el('p',{class:'s'},badges.concat([el('a',{href:safeUrl(p.url),target:'_blank',rel:'noopener',text:'Open article'})]))
+      ]));
+    });
+  }).catch(function(){ document.getElementById('latestPapers').textContent='Paper data could not be loaded.'; });
+
+  load('conferences').then(function(d){
+    var box=document.getElementById('confList');
+    d.items.forEach(function(c){
+      box.appendChild(el('div',{class:'conf'},[
+        el('span',{class:'pill'+(c.confirmed?'':' tbc'),text:c.confirmed?'Confirmed':'Confirm dates'}),
+        el('div',{class:'when',text:c.when}),
+        el('h3',{text:c.name}),
+        el('div',{class:'where',text:c.where}),
+        el('a',{href:safeUrl(c.url),target:'_blank',rel:'noopener',text:'Event site'})
+      ]));
+    });
+  });
+
+  load('jobs').then(function(d){
+    var box=document.getElementById('jobList');
+    if(!d.items.length) return;
+    box.appendChild(el('h3',{class:'sub-h',text:'Newest postings'}));
+    d.items.forEach(function(j){
+      box.appendChild(el('article',{class:'item'},[
+        el('time',{text:fmtDate(j.date)}),
+        el('div',{},[
+          el('h3',{},[el('a',{href:safeUrl(j.url),target:'_blank',rel:'noopener',text:j.title})]),
+          el('div',{class:'tags'},[el('span',{text:[j.company,j.location].filter(Boolean).join(' · ')})])
+        ])
+      ]));
+    });
+  }).catch(function(){});
+
+  /* Active section highlight */
+  var links = document.querySelectorAll('nav.rail a.link');
+  var secs = ['news','papers','conferences','jobs'].map(function(id){return document.getElementById(id)});
+  if ('IntersectionObserver' in window){
+    var io = new IntersectionObserver(function(es){
+      es.forEach(function(e){
+        if(e.isIntersecting){
+          links.forEach(function(a){a.classList.toggle('on', a.getAttribute('href')==='#'+e.target.id)});
+        }
+      });
+    },{rootMargin:'-20% 0px -70% 0px'});
+    secs.forEach(function(s){io.observe(s)});
+  }
+})();
+</script>
+</body>
+</html>

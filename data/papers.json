@@ -1,0 +1,23 @@
+{
+  "updated": "2026-11-10T00:00:00Z",
+  "items": [
+    {
+      "title": "Using Artificial Intelligence as Gatekeeper or Second Opinion: Designing Patient Pathways for AI-Augmented Healthcare",
+      "authors": "Tinglong Dai, Simrita Singh",
+      "journal": "Production and Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1177/10591478251403269",
+      "utd": false,
+      "ft": true
+    },
+    {
+      "title": "Physician Adoption of AI Assistant",
+      "authors": "Ting Hou, Meng Li, Yinliang Tan, Huazhong Zhao",
+      "journal": "Manufacturing & Service Operations Management",
+      "year": 2024,
+      "url": "https://doi.org/10.1287/msom.2023.0093",
+      "utd": true,
+      "ft": true
+    }
+  ]
+}

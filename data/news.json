@@ -1,0 +1,49 @@
+{
+  "updated": "2026-11-10T00:00:00Z",
+  "items": [
+    {
+      "title": "AMA: physicians shouldn’t be the last line of defense against clinical AI harm",
+      "url": "https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare",
+      "date": "2026-11-06",
+      "source": "Healthcare Dive via TechTarget",
+      "tags": [
+        "ai",
+        "pol"
+      ],
+      "summary": "The AMA argues doctors can’t be held responsible for harm when much of AI development and deployment is outside their control."
+    },
+    {
+      "title": "Treat AI chatbots as shared decision-making aids, not oracles",
+      "url": "https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare",
+      "date": "2026-11-03",
+      "source": "TechTarget Health IT Analytics",
+      "tags": [
+        "ai"
+      ],
+      "summary": "Framing chatbots as support for patient-clinician conversations can help engagement while limiting risk."
+    },
+    {
+      "title": "Doximity’s dose-verification tool beats general-purpose AI models",
+      "url": "https://www.techtarget.com/healthtechanalytics/resources/Artificial-intelligence-in-healthcare",
+      "date": "2026-11-02",
+      "source": "Healthcare Dive",
+      "tags": [
+        "ai",
+        "biz"
+      ],
+      "summary": "Company research claims its clinical AI outperformed general models as large AI labs enter healthcare."
+    },
+    {
+      "title": "91% of patients want to approve AI use in diagnosis; 64% of providers plan AI for claims and denials",
+      "url": "https://www.healthcareittoday.com/?p=2537901",
+      "date": "2026-11-01",
+      "source": "Healthcare IT Today",
+      "tags": [
+        "ai",
+        "biz",
+        "pol"
+      ],
+      "summary": "Survey figures from the weekly roundup show a gap between patient consent expectations and provider revenue-cycle plans."
+    }
+  ]
+}
