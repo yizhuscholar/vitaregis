@@ -1,12 +1,12 @@
-# Pulse: healthcare, AI and business briefing
+# Vitaregis: healthcare, AI and business briefing
 
 A static site (GitHub Pages) refreshed daily by a GitHub Action.
 
 ## One-time setup
-1. Create a new GitHub repo (e.g. `pulse`) and upload everything in this folder, keeping the `.github` folder.
+1. Create a new GitHub repo (e.g. `Vitaregis`) and upload everything in this folder, keeping the `.github` folder.
 2. Repo **Settings > Pages > Source: GitHub Actions**.
 3. (Optional) **Settings > Secrets and variables > Actions**: add `CONTACT_EMAIL` (polite Crossref access) and, for live job listings, `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` (free at developer.adzuna.com).
-4. **Actions tab > Update and deploy Pulse > Run workflow**. Your site appears at `https://<username>.github.io/<repo>/`.
+4. **Actions tab > Update and deploy Vitaregis > Run workflow**. Your site appears at `https://<username>.github.io/<repo>/`.
 
 ## What updates automatically
 - `data/news.json`: RSS feeds in `scripts/update.py` (FEEDS), last 7 days, tagged AI / business / policy.

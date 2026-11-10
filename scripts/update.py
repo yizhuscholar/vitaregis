@@ -8,7 +8,7 @@ from email.utils import parsedate_to_datetime
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 DATA = os.path.join(ROOT, "data")
 NOW = datetime.now(timezone.utc)
-UA = {"User-Agent": "PulseBot/1.0 (https://github.com; mailto:%s)" % os.environ.get("CONTACT_EMAIL", "you@example.com")}
+UA = {"User-Agent": "VitaregisBot/1.0 (https://github.com; mailto:%s)" % os.environ.get("CONTACT_EMAIL", "you@example.com")}
 
 def get(url, timeout=25):
     req = urllib.request.Request(url, headers=UA)
