@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:42:55.608295+00:00",
+  "updated": "2026-11-11T18:25:17.767001+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -128,15 +128,6 @@
       "ft": false
     },
     {
-      "title": "Transactive Memory Systems and Hospital Trauma Team Performance: Shared Experience in Action Teams",
-      "authors": "Linda Argote, Jerry Guo, Ki-Won Haan, Matthew R. Rosengart et al.",
-      "journal": "Organization Science",
-      "year": 2026,
-      "url": "https://doi.org/10.1287/orsc.2024.19022",
-      "utd": true,
-      "ft": true
-    },
-    {
       "title": "Dynamic Control of Service Systems with Returns: Application to Design of Postdischarge Hospital Readmission Prevention Programs",
       "authors": "Timothy C. Y. Chan, Simon Y. Huang, Vahid Sarhangian",
       "journal": "Operations Research",
@@ -153,15 +144,6 @@
       "url": "https://doi.org/10.1080/07421222.2025.2520180",
       "utd": true,
       "ft": false
-    },
-    {
-      "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
-      "authors": "Shirish Sundaresan, Isin Guler",
-      "journal": "Organization Science",
-      "year": 2025,
-      "url": "https://doi.org/10.1287/orsc.2022.16738",
-      "utd": true,
-      "ft": true
     }
   ]
 }
