@@ -1,6 +1,100 @@
 {
-  "updated": "2026-11-11T18:25:17.767001+00:00",
+  "updated": "2026-11-12T18:44:07.192728+00:00",
   "items": [
+    {
+      "title": "athenahealth Thrive 2026: Connecting athenaOne to Epic and Bringing Claude AI to the Patient Portal",
+      "url": "https://www.healthcareittoday.com/2026/11/12/athenahealth-thrive-2026-connecting-athenaone-to-epic-and-bringing-claude-ai-to-the-patient-portal/",
+      "date": "2026-11-12",
+      "source": "Healthcare IT Today",
+      "summary": "Discover how a new interoperability partnership between athenahealth and Epic uses the 360X standard to replace manual work with direct secure messaging, accelerating referrals and specialty access for patients.",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "How Unity Health Is Improving Rural Care With Technology and New Funding",
+      "url": "https://www.healthcareittoday.com/2026/11/12/how-unity-health-is-improving-rural-care-with-technology-and-new-funding/",
+      "date": "2026-11-12",
+      "source": "Healthcare IT Today",
+      "summary": "Unity Health, a provider with 28 clinics and specialty centers in 8 counties of rural Arkansas, is managing to expand and to improve its services with the help of rural health transformation funds and their MEDITECH…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Will Heidi Overton get to run the FDA?",
+      "url": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
+      "date": "2026-11-12",
+      "source": "STAT",
+      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "The Executive Guide to Scaling Agentic AI in Healthcare",
+      "url": "https://www.healthcareittoday.com/2026/11/12/the-executive-guide-to-scaling-agentic-ai-in-healthcare/",
+      "date": "2026-11-12",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by Michael Serbinis, Founder and CEO at League Summary Healthcare has always met rising demand by adding people, but that model no longer works, and AI agents that give every member and…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment",
+      "url": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss",
+      "date": "2026-11-12",
+      "source": "STAT",
+      "summary": "In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical chatbots, and questions around Medicare’s AI prior-auth experiment.",
+      "tags": [
+        "ai",
+        "biz",
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
+      "date": "2026-11-12",
+      "source": "STAT",
+      "summary": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "VisiQuate Acquires Artiva HCx | LeanTaaS Brings Ambient Intelligence to iQueue",
+      "url": "https://www.healthcareittoday.com/2026/11/12/visiquate-acquires-artiva-hcx-leantaas-brings-ambient-intelligence-to-iqueue/",
+      "date": "2026-11-12",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. VisiQuate Acquires Artiva HCx, Uniting Revenue Cycle Intelligence and…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/12/26",
+      "url": "https://histalk2.com/2026/11/11/morning-headlines-11-12-26/",
+      "date": "2026-11-12",
+      "source": "HIStalk",
+      "summary": "Inovalon To Acquire Intelligent Medication Management Company DrFirst Healthcare data and insights vendor Inovalon will acquire DrFirst, which offers medication management software. XpertDox Raises $20M Series A led by…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
+      "url": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
+      "date": "2026-11-11",
+      "source": "STAT",
+      "summary": "Drug companies seem to be looking for workarounds to protect their U.S. sales against Trump's \"most-favored nations\" policy:",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "Autonomous AI Is Transforming Healthcare Revenue Cycle Management",
       "url": "https://www.healthcareittoday.com/2026/11/11/autonomous-ai-is-transforming-healthcare-revenue-cycle-management/",
@@ -78,9 +172,9 @@
       "url": "https://histalk2.com/2026/11/11/histalks-guide-to-hlth-2026/",
       "date": "2026-11-11",
       "source": "HIStalk",
-      "summary": "Clearwater Contact: Monica Pastor, senior events marketing managermonica.pastor@clearwatersecurity.com626.384.1513 As a cybersecurity, privacy, compliance, and risk management partner to organizations across the…",
+      "summary": "Availity Booth 5054 Contact: Meghan Smith, senior public relations managerMegan.Smith@availity.com Availity will be at booth 5054 in the AI Zone demonstrating Availity Extend, which allows providers, health technology…",
       "tags": [
-        "pol"
+        "ai"
       ]
     },
     {
@@ -94,16 +188,6 @@
       ]
     },
     {
-      "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
-      "url": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
-      "date": "2026-11-11",
-      "source": "STAT",
-      "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "title": "Morning Headlines 11/11/26",
       "url": "https://histalk2.com/2026/11/10/morning-headlines-11-11-26/",
       "date": "2026-11-10",
@@ -111,47 +195,6 @@
       "summary": "Google Cloud Launches Gemini for Healthcare Google Cloud previews Gemini for healthcare, which uses data from EHR and billing systems, clinical guidelines, and CMS datasets to help providers and payers automate clinical…",
       "tags": [
         "pol"
-      ]
-    },
-    {
-      "title": "News 11/11/26",
-      "url": "https://histalk2.com/2026/11/10/news-11-11-26/",
-      "date": "2026-11-10",
-      "source": "HIStalk",
-      "summary": "Top News Google Cloud previews Gemini for healthcare, which uses data from EHR and billing systems, clinical guidelines, and CMS datasets to help providers and payers automate clinical and operational workflows. The…",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative",
-      "url": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
-      "date": "2026-11-10",
-      "source": "STAT",
-      "summary": "Sen. Bernie Sanders said that he wants to lower the Medicare eligibility age by 10 years, among other initiatives.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Men’s use of chatbots for therapy, and earnings season highlights",
-      "url": "https://www.statnews.com/2026/11/10/chatbots-for-men-and-earnings-highlights-health-tech/?utm_campaign=rss",
-      "date": "2026-11-10",
-      "source": "STAT",
-      "summary": "In this edition of STAT Health Tech: Growing optimism around chatbots and men who avoid therapy, and highlights from the earnings season.",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Oura to acquire Counsel Health for $625 million, placing a big bet on AI care",
-      "url": "https://www.statnews.com/2026/11/10/oura-acquires-counsel-health-big-bet-ai-care/?utm_campaign=rss",
-      "date": "2026-11-10",
-      "source": "STAT",
-      "summary": "Oura, the smart ring maker that recently delayed plans to go public, said it will pay $625 million to acquire Counsel Health, a clinical AI startup.",
-      "tags": [
-        "ai",
-        "biz"
       ]
     },
     {
@@ -176,43 +219,13 @@
       ]
     },
     {
-      "title": "Why Access to Your Own Records Shouldn’t Be a Fight",
-      "url": "https://www.healthcareittoday.com/2026/11/10/why-access-to-your-own-records-shouldnt-be-a-fight/",
-      "date": "2026-11-10",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by James Bateman, Co-Founder and CEO at Marble The idea for my company started with my father-in-law’s cancer treatment. My mother-in-law was the one who bore the burden of it: gathering…",
+      "title": "4 states sue HHS to stop Medicaid work requirements",
+      "url": "https://www.healthcaredive.com/news/4-states-sue-hhs-to-stop-medicaid-work-requirements/874191/",
+      "date": "2026-11-09",
+      "source": "Healthcare Dive",
+      "summary": "Four states have filed a lawsuit asking the court to delay implementation of Medicaid work requirements less than 60 days ahead of the implementation deadline.",
       "tags": [
         "pol"
-      ]
-    },
-    {
-      "title": "STAT+: GLP-1s are given an FDA warning for rare eye condition risk",
-      "url": "https://www.statnews.com/2026/11/10/biotech-news-glp-1-given-an-fda-warning-for-rare-eye-condition-risk/?utm_campaign=rss",
-      "date": "2026-11-10",
-      "source": "STAT",
-      "summary": "The FDA warned that GLP-1 drugs carry a potential risk of a rare but serious eye condition sometimes referred to as an “eye stroke.”",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss",
-      "date": "2026-11-10",
-      "source": "STAT",
-      "summary": "The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of…",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "TailorMed Announces Majority Investment from GrowthCurve Capital | Heidi Secures US$340M",
-      "url": "https://www.healthcareittoday.com/2026/11/10/tailormed-announces-majority-investment-from-growthcurve-capital-heidi-secures-us340m/",
-      "date": "2026-11-10",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. TailorMed Announces Majority Investment from GrowthCurve Capital…",
-      "tags": [
-        "biz"
       ]
     },
     {
@@ -226,31 +239,11 @@
       ]
     },
     {
-      "title": "Using AI to Build, Troubleshoot, and Optimize Healthcare Integrations",
-      "url": "https://www.healthcareittoday.com/2026/11/09/using-ai-to-build-troubleshoot-and-optimize-healthcare-integrations/",
-      "date": "2026-11-09",
-      "source": "Healthcare IT Today",
-      "summary": "As healthcare organizations build and maintain increasingly complex integrations, troubleshooting and optimizing those connections can take up a significant amount of an integration team’s time. That’s where AI tools…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "title": "AWS pledges $100M in cloud, AI credits to close health equity gaps",
       "url": "https://www.healthcaredive.com/news/aws-pledges-100m-in-cloud-ai-credits-to-close-health-equity-gaps/874103/",
       "date": "2026-11-09",
       "source": "Healthcare Dive",
       "summary": "Amazon Web Services will distribute the funds as credits rather than cash to organizations working on care access, women's and children's health and food insecurity.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "How rural healthcare organizations are turning AI investments into measurable performance improvements",
-      "url": "https://www.healthcaredive.com/spons/how-rural-healthcare-organizations-are-turning-ai-investments-into-measurab/873543/",
-      "date": "2026-11-09",
-      "source": "Healthcare Dive",
-      "summary": "Better data, stronger governance and targeted use cases are driving results in rural healthcare.",
       "tags": [
         "ai"
       ]

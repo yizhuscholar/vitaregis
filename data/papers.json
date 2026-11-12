@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:25:17.767001+00:00",
+  "updated": "2026-11-12T18:44:07.192728+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -74,76 +74,40 @@
       "ft": true
     },
     {
-      "title": "Planning a Community Approach to Diabetes Care in Low- and Middle-Income Countries Using Optimization",
-      "authors": "Katherine B. Adams, Justin J. Boutilier, Sarang Deo, Yonatan Mintz",
-      "journal": "Operations Research",
+      "title": "EXPRESS: Bridging the Gap: The Impact of Online Booking of Healthcare Appointments Service",
+      "authors": "Liuyi He, Jifeng Luo, Panpan Wang, Zhiyan Wu et al.",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.1287/opre.2023.0248",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261505549",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Appointment Scheduling of Outpatient Clinical Services Under Uncertain Patient Flows",
-      "authors": "Youhua (Frank) Chen, Qi Feng, J. George Shanthikumar, Yang Yang",
-      "journal": "Operations Research",
+      "title": "What drives physician efficiency? Evidence from emergency department operations",
+      "authors": "Raha Imanirad, Soroush Saghafian, Stephen J Traub, Nicole R Hodgson",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.1287/opre.2022.0353",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261504131",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Multilocation, Dynamic Staff Planning for a Healthcare System: Methodology and Application",
-      "authors": "Sandeep Rath, Kumar Rajaram, Mark E. Hudson, Aman Mahajan",
-      "journal": "Operations Research",
+      "title": "A practical guide to causal inference in healthcare operations using single-world intervention graphs (SWIGs)",
+      "authors": "Amy Louise Cochran, Sebastian Alejandro Alvarez-Avendaño, Fernando Acosta-Perez, Keith Eric Kocher et al.",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.1287/opre.2023.0438",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261483354",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Fostering Information Disclosure in Telemental Healthcare Settings: How Telehealth Can Mitigate the Deleterious Effects of Stigma",
-      "authors": "Ryan Raimi, Paul Benjamin Lowry, Detmar W. Straub",
-      "journal": "Journal of Management Information Systems",
+      "title": "Fair online hospital diagnostic service scheduling: Helping both patients and providers",
+      "authors": "Maureen Canellas, Joyce Luo, Dessislava Pachamanova, Georgia Perakis",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.1080/07421222.2026.2647466",
-      "utd": true,
-      "ft": false
-    },
-    {
-      "title": "Physicians’ Contributions to Online Healthcare Platforms: Relative Effects of Herding Cues and Feedback Types",
-      "authors": "Liuan Wang, Hillol Bala, Lu (Lucy) Yan, Xitong Guo",
-      "journal": "Journal of Management Information Systems",
-      "year": 2026,
-      "url": "https://doi.org/10.1080/07421222.2025.2602402",
-      "utd": true,
-      "ft": false
-    },
-    {
-      "title": "Do Mildly Ill Patients Really Need an Offline Doctor? Deciphering Health Choices from Artificial Intelligence Diagnostic Design and Trust Dynamics",
-      "authors": "Aihui Chen, Yaobin Lu",
-      "journal": "Journal of Management Information Systems",
-      "year": 2026,
-      "url": "https://doi.org/10.1080/07421222.2025.2602395",
-      "utd": true,
-      "ft": false
-    },
-    {
-      "title": "Dynamic Control of Service Systems with Returns: Application to Design of Postdischarge Hospital Readmission Prevention Programs",
-      "authors": "Timothy C. Y. Chan, Simon Y. Huang, Vahid Sarhangian",
-      "journal": "Operations Research",
-      "year": 2025,
-      "url": "https://doi.org/10.1287/opre.2022.0066",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261476253",
+      "utd": false,
       "ft": true
-    },
-    {
-      "title": "Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation",
-      "authors": "Sijia Zhou, Yanzhen Chen, Xin Li",
-      "journal": "Journal of Management Information Systems",
-      "year": 2025,
-      "url": "https://doi.org/10.1080/07421222.2025.2520180",
-      "utd": true,
-      "ft": false
     }
   ]
 }
