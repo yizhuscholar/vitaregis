@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:44:07.192728+00:00",
+  "updated": "2026-11-13T18:25:42.740946+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -74,6 +74,33 @@
       "ft": true
     },
     {
+      "title": "Planning a Community Approach to Diabetes Care in Low- and Middle-Income Countries Using Optimization",
+      "authors": "Katherine B. Adams, Justin J. Boutilier, Sarang Deo, Yonatan Mintz",
+      "journal": "Operations Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/opre.2023.0248",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Appointment Scheduling of Outpatient Clinical Services Under Uncertain Patient Flows",
+      "authors": "Youhua (Frank) Chen, Qi Feng, J. George Shanthikumar, Yang Yang",
+      "journal": "Operations Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/opre.2022.0353",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Multilocation, Dynamic Staff Planning for a Healthcare System: Methodology and Application",
+      "authors": "Sandeep Rath, Kumar Rajaram, Mark E. Hudson, Aman Mahajan",
+      "journal": "Operations Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/opre.2023.0438",
+      "utd": true,
+      "ft": true
+    },
+    {
       "title": "EXPRESS: Bridging the Gap: The Impact of Online Booking of Healthcare Appointments Service",
       "authors": "Liuyi He, Jifeng Luo, Panpan Wang, Zhiyan Wu et al.",
       "journal": "Production and Operations Management",
@@ -107,6 +134,231 @@
       "year": 2026,
       "url": "https://doi.org/10.1177/10591478261476253",
       "utd": false,
+      "ft": true
+    },
+    {
+      "title": "Predicting Consultation Success on Online Health Platforms Using Dynamic Knowledge Networks and Multimodal Data Fusion",
+      "authors": "Shuang Geng, Wenli Zhang, Jiaheng Xie, Gemin Liang et al.",
+      "journal": "MIS Quarterly",
+      "year": 2026,
+      "url": "https://doi.org/10.25300/misq/2025/19444",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Health Information Technology Redeployment From Targets to Acquirers in the Healthcare Industry: The Role of Co-Specialized Human Capital in Value Creation",
+      "authors": "Chengxin Cao, Gautam Ray, Mani Subramani, Alok Gupta",
+      "journal": "MIS Quarterly",
+      "year": 2026,
+      "url": "https://doi.org/10.25300/misq/2025/18693",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Reconceptualizing Patient Engagement with Mobile Healthcare Apps: A Computationally Intensive Theory Development for Patient Engagement Networks",
+      "authors": "Inkyoung Hur, Chul Woo Yoo, Jahyun Goo, Weidong Xia",
+      "journal": "MIS Quarterly",
+      "year": 2026,
+      "url": "https://doi.org/10.25300/misq/2026/19117",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Technology-Mediated Services in Health Care: Evaluating Telehealth Delivery Models for Underserved Populations",
+      "authors": "Kyuyeon (Jenny) Rhee, Xiao Liu, Suparerk Lekwijit, Pei-Yu Chen",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2024.1104",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Does Private Equity Hurt or Improve Healthcare Value? New Evidence and Mechanisms",
+      "authors": "Minghong Yuan, Wen Wen, Indranil Roy Bardhan",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2025.2332",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Ripples of Emotion: Unraveling the Dynamics of Emotion Flows and User Engagement in Online Healthcare Communities",
+      "authors": "Tongxin Zhou, Jingyi Sun",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2023.0724",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Healthcare at the Crossroads: Impacts of Online Health Community on Off-line Healthcare Quality and Equity",
+      "authors": "Ji Wu, Yulin Fang, J. Leon Zhao, Xinyu Zhu",
+      "journal": "Information Systems Research",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/isre.2022.0250",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Fostering Information Disclosure in Telemental Healthcare Settings: How Telehealth Can Mitigate the Deleterious Effects of Stigma",
+      "authors": "Ryan Raimi, Paul Benjamin Lowry, Detmar W. Straub",
+      "journal": "Journal of Management Information Systems",
+      "year": 2026,
+      "url": "https://doi.org/10.1080/07421222.2026.2647466",
+      "utd": true,
+      "ft": false
+    },
+    {
+      "title": "Physicians’ Contributions to Online Healthcare Platforms: Relative Effects of Herding Cues and Feedback Types",
+      "authors": "Liuan Wang, Hillol Bala, Lu (Lucy) Yan, Xitong Guo",
+      "journal": "Journal of Management Information Systems",
+      "year": 2026,
+      "url": "https://doi.org/10.1080/07421222.2025.2602402",
+      "utd": true,
+      "ft": false
+    },
+    {
+      "title": "Do Mildly Ill Patients Really Need an Offline Doctor? Deciphering Health Choices from Artificial Intelligence Diagnostic Design and Trust Dynamics",
+      "authors": "Aihui Chen, Yaobin Lu",
+      "journal": "Journal of Management Information Systems",
+      "year": 2026,
+      "url": "https://doi.org/10.1080/07421222.2025.2602395",
+      "utd": true,
+      "ft": false
+    },
+    {
+      "title": "The Digital Journey of Health Insurance Marketing: Narrative Ads and Product Page Design",
+      "authors": "Yin Bai, Rui Wang, Xingyao Ren, Rajdeep Grewal",
+      "journal": "Marketing Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mksc.2025.0168",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Does Premium Version Adoption in mHealth Improve User Engagement and Health-Related Outcomes?",
+      "authors": "Yikun Jiang, Kosuke Uetake, Nathan Yang",
+      "journal": "Marketing Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mksc.2022.0437",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Bargaining and Network Effects in Two-Sided Platforms: Evidence from Online Healthcare",
+      "authors": "Xu Zhang, Junhong Chu, Puneet Manchanda",
+      "journal": "Marketing Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mksc.2024.0922",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Information processing, mutual understanding, and organization design in healthcare",
+      "authors": "John Joseph, Alex James Wilson, Jay Park, Daniel Chow",
+      "journal": "Strategic Management Journal",
+      "year": 2026,
+      "url": "https://doi.org/10.1002/smj.70116",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Transactive Memory Systems and Hospital Trauma Team Performance: Shared Experience in Action Teams",
+      "authors": "Linda Argote, Jerry Guo, Ki-Won Haan, Matthew R. Rosengart et al.",
+      "journal": "Organization Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/orsc.2024.19022",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Dynamic Control of Service Systems with Returns: Application to Design of Postdischarge Hospital Readmission Prevention Programs",
+      "authors": "Timothy C. Y. Chan, Simon Y. Huang, Vahid Sarhangian",
+      "journal": "Operations Research",
+      "year": 2025,
+      "url": "https://doi.org/10.1287/opre.2022.0066",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Operational Process and Agency Considerations in Managing Emerging Technologies in Healthcare",
+      "authors": "Elliot Bendoly, Meng Li, Jeffrey Smith, Paul A. Pavlou",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70029",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Unlocking Privacy in Healthcare: The Impact of Explanations on Privacy Concerns and Self‐Disclosure to Conversational Technologies",
+      "authors": "Hashai Papneja, Sarv Devaraj",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70026",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "A Model of Hospital Patient Engagement for Value Co‐Creation: Does It Affect Performance? A U.S. Hospital Industry Study",
+      "authors": "Shawnee K. Vickery, Matthew J. Castel, Sriram Narayanan, Mariana L. Nicolae",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70019",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "On Telemedicine Reimbursements and Hospital Adoption: A Policy Analysis Using Causal Inference Methods",
+      "authors": "Kang Bok Lee, Andrew Hildebrandt, Nitish Patidar, Shashank Rao",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70021",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Judgmental Bot: Conversational Agents in Online Mental Health Screening",
+      "authors": "Ryan Raimi, Antino Kim, Sezgin Ayabakan, Alan R. Dennis",
+      "journal": "MIS Quarterly",
+      "year": 2025,
+      "url": "https://doi.org/10.25300/misq/2025/18555",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation",
+      "authors": "Sijia Zhou, Yanzhen Chen, Xin Li",
+      "journal": "Journal of Management Information Systems",
+      "year": 2025,
+      "url": "https://doi.org/10.1080/07421222.2025.2520180",
+      "utd": true,
+      "ft": false
+    },
+    {
+      "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
+      "authors": "Shirish Sundaresan, Isin Guler",
+      "journal": "Organization Science",
+      "year": 2025,
+      "url": "https://doi.org/10.1287/orsc.2022.16738",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Gender gap in STEM entrepreneurship: Effects of the Affordable Care Act reform",
+      "authors": "Jiayi Bao",
+      "journal": "Strategic Management Journal",
+      "year": 2024,
+      "url": "https://doi.org/10.1002/smj.3594",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Network Formation and Bargaining in Vertical Markets: The Case of Narrow Networks in Health Insurance",
+      "authors": "Soheil Ghili",
+      "journal": "Marketing Science",
+      "year": 2022,
+      "url": "https://doi.org/10.1287/mksc.2021.1331",
+      "utd": true,
       "ft": true
     }
   ]
