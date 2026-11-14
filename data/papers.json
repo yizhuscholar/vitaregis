@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T18:25:42.740946+00:00",
+  "updated": "2026-11-14T16:51:49.325339+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -74,30 +74,12 @@
       "ft": true
     },
     {
-      "title": "Planning a Community Approach to Diabetes Care in Low- and Middle-Income Countries Using Optimization",
-      "authors": "Katherine B. Adams, Justin J. Boutilier, Sarang Deo, Yonatan Mintz",
-      "journal": "Operations Research",
+      "title": "EXPRESS: Bounded Rationality in Public Healthcare Competition",
+      "authors": "Yu Zhang, Hao Wu, Zhongbin Wang",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.1287/opre.2023.0248",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "Appointment Scheduling of Outpatient Clinical Services Under Uncertain Patient Flows",
-      "authors": "Youhua (Frank) Chen, Qi Feng, J. George Shanthikumar, Yang Yang",
-      "journal": "Operations Research",
-      "year": 2026,
-      "url": "https://doi.org/10.1287/opre.2022.0353",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "Multilocation, Dynamic Staff Planning for a Healthcare System: Methodology and Application",
-      "authors": "Sandeep Rath, Kumar Rajaram, Mark E. Hudson, Aman Mahajan",
-      "journal": "Operations Research",
-      "year": 2026,
-      "url": "https://doi.org/10.1287/opre.2023.0438",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261510191",
+      "utd": false,
       "ft": true
     },
     {
@@ -124,15 +106,6 @@
       "journal": "Production and Operations Management",
       "year": 2026,
       "url": "https://doi.org/10.1177/10591478261483354",
-      "utd": false,
-      "ft": true
-    },
-    {
-      "title": "Fair online hospital diagnostic service scheduling: Helping both patients and providers",
-      "authors": "Maureen Canellas, Joyce Luo, Dessislava Pachamanova, Georgia Perakis",
-      "journal": "Production and Operations Management",
-      "year": 2026,
-      "url": "https://doi.org/10.1177/10591478261476253",
       "utd": false,
       "ft": true
     },
@@ -263,60 +236,6 @@
       "ft": true
     },
     {
-      "title": "Transactive Memory Systems and Hospital Trauma Team Performance: Shared Experience in Action Teams",
-      "authors": "Linda Argote, Jerry Guo, Ki-Won Haan, Matthew R. Rosengart et al.",
-      "journal": "Organization Science",
-      "year": 2026,
-      "url": "https://doi.org/10.1287/orsc.2024.19022",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "Dynamic Control of Service Systems with Returns: Application to Design of Postdischarge Hospital Readmission Prevention Programs",
-      "authors": "Timothy C. Y. Chan, Simon Y. Huang, Vahid Sarhangian",
-      "journal": "Operations Research",
-      "year": 2025,
-      "url": "https://doi.org/10.1287/opre.2022.0066",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "Operational Process and Agency Considerations in Managing Emerging Technologies in Healthcare",
-      "authors": "Elliot Bendoly, Meng Li, Jeffrey Smith, Paul A. Pavlou",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70029",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "Unlocking Privacy in Healthcare: The Impact of Explanations on Privacy Concerns and Self‐Disclosure to Conversational Technologies",
-      "authors": "Hashai Papneja, Sarv Devaraj",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70026",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "A Model of Hospital Patient Engagement for Value Co‐Creation: Does It Affect Performance? A U.S. Hospital Industry Study",
-      "authors": "Shawnee K. Vickery, Matthew J. Castel, Sriram Narayanan, Mariana L. Nicolae",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70019",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "On Telemedicine Reimbursements and Hospital Adoption: A Policy Analysis Using Causal Inference Methods",
-      "authors": "Kang Bok Lee, Andrew Hildebrandt, Nitish Patidar, Shashank Rao",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70021",
-      "utd": true,
-      "ft": true
-    },
-    {
       "title": "Judgmental Bot: Conversational Agents in Online Mental Health Screening",
       "authors": "Ryan Raimi, Antino Kim, Sezgin Ayabakan, Alan R. Dennis",
       "journal": "MIS Quarterly",
@@ -335,15 +254,6 @@
       "ft": false
     },
     {
-      "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
-      "authors": "Shirish Sundaresan, Isin Guler",
-      "journal": "Organization Science",
-      "year": 2025,
-      "url": "https://doi.org/10.1287/orsc.2022.16738",
-      "utd": true,
-      "ft": true
-    },
-    {
       "title": "Gender gap in STEM entrepreneurship: Effects of the Affordable Care Act reform",
       "authors": "Jiayi Bao",
       "journal": "Strategic Management Journal",
@@ -358,6 +268,24 @@
       "journal": "Marketing Science",
       "year": 2022,
       "url": "https://doi.org/10.1287/mksc.2021.1331",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "The dynamics of related diversification: Evidence from the health insurance industry following the Affordable Care Act",
+      "authors": "Yue Maggie Zhou, Weikun Yang, Sendil Ethiraj",
+      "journal": "Strategic Management Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.1002/smj.3472",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Health insurance benefits as a labor market friction: Evidence from a quasi‐experiment",
+      "authors": "Ulya Tsolmon, Dan Ariely",
+      "journal": "Strategic Management Journal",
+      "year": 2022,
+      "url": "https://doi.org/10.1002/smj.3378",
       "utd": true,
       "ft": true
     }

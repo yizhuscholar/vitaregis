@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-13T18:25:42.740946+00:00",
+  "updated": "2026-11-14T16:51:49.325339+00:00",
   "items": [
+    {
+      "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+      "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+      "date": "2026-11-13",
+      "source": "STAT",
+      "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
+      "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
+      "date": "2026-11-13",
+      "source": "STAT",
+      "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Medicare can’t add new home health, hospice facilities for 6 more months",
+      "url": "https://www.healthcaredive.com/news/medicare-cant-add-new-home-health-hospice-facilities-for-6-more-months/874660/",
+      "date": "2026-11-13",
+      "source": "Healthcare Dive",
+      "summary": "The extended ban will prevent home health agencies and hospices from enrolling in the Medicare program for another six months amid ongoing concerns about fraud in the sector.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "Balancing the Need for Data Accessibility and Interoperability with Stringent Privacy and Security Requirements",
       "url": "https://www.healthcareittoday.com/2026/11/13/balancing-the-need-for-data-accessibility-and-interoperability-with-stringent-privacy-and-security-requirements/",
@@ -16,7 +46,7 @@
       "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
       "date": "2026-11-13",
       "source": "Healthcare Dive",
-      "summary": "Patients are more open to AI making clinician decisions than their providers assume. But human oversight is what sells AI for them, according to a new poll.",
+      "summary": "Patients are more open to AI making decisions about their care than providers assume. But human oversight is what sells AI for them, according to a new poll.",
       "tags": [
         "ai"
       ]
@@ -117,7 +147,7 @@
       "url": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
       "date": "2026-11-12",
       "source": "Healthcare Dive",
-      "summary": "AI use among physicians surged this year, with many using it to review medical literature and make clinical decisions despite concerns about its accuracy and impact on newer employees, according to a new survey.",
+      "summary": "AI use among physicians surged this year, with many using the tech to review medical literature and make clinical decisions despite concerns about its accuracy and impact on newer employees, according to a survey.",
       "tags": [
         "ai"
       ]
@@ -144,16 +174,6 @@
       ]
     },
     {
-      "title": "STAT+: Will Heidi Overton get to run the FDA?",
-      "url": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
-      "date": "2026-11-12",
-      "source": "STAT",
-      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "The Executive Guide to Scaling Agentic AI in Healthcare",
       "url": "https://www.healthcareittoday.com/2026/11/12/the-executive-guide-to-scaling-agentic-ai-in-healthcare/",
       "date": "2026-11-12",
@@ -176,16 +196,6 @@
       ]
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
-      "date": "2026-11-12",
-      "source": "STAT",
-      "summary": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "VisiQuate Acquires Artiva HCx | LeanTaaS Brings Ambient Intelligence to iQueue",
       "url": "https://www.healthcareittoday.com/2026/11/12/visiquate-acquires-artiva-hcx-leantaas-brings-ambient-intelligence-to-iqueue/",
       "date": "2026-11-12",
@@ -193,16 +203,6 @@
       "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. VisiQuate Acquires Artiva HCx, Uniting Revenue Cycle Intelligence and…",
       "tags": [
         "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/12/26",
-      "url": "https://histalk2.com/2026/11/11/morning-headlines-11-12-26/",
-      "date": "2026-11-12",
-      "source": "HIStalk",
-      "summary": "Inovalon To Acquire Intelligent Medication Management Company DrFirst Healthcare data and insights vendor Inovalon will acquire DrFirst, which offers medication management software. XpertDox Raises $20M Series A led by…",
-      "tags": [
         "biz"
       ]
     },
