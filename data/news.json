@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-14T16:51:49.325339+00:00",
+  "updated": "2026-11-15T17:35:41.910005+00:00",
   "items": [
+    {
+      "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+      "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+      "date": "2026-11-15",
+      "source": "STAT",
+      "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Bonus Features – November 15, 2026 – 69% or healthcare pros want their orgs to use more AI, 38% of patients are comfortable using AI to schedule appointments, plus 36 more stories",
+      "url": "https://www.healthcareittoday.com/2026/11/15/bonus-features-november-15-2026-69-or-healthcare-pros-want-their-orgs-to-use-more-ai-38-of-patients-are-comfortable-using-ai-to-schedule-appointments-plus-36-more-stories/",
+      "date": "2026-11-15",
+      "source": "Healthcare IT Today",
+      "summary": "Welcome to the weekly edition of Healthcare IT Today Bonus Features. This article will be a weekly roundup of interesting stories, product announcements, new hires, partnerships, research studies, awards, sales, and…",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
       "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
@@ -174,6 +194,16 @@
       ]
     },
     {
+      "title": "STAT+: Will Heidi Overton get to run the FDA?",
+      "url": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
+      "date": "2026-11-12",
+      "source": "STAT",
+      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
       "title": "The Executive Guide to Scaling Agentic AI in Healthcare",
       "url": "https://www.healthcareittoday.com/2026/11/12/the-executive-guide-to-scaling-agentic-ai-in-healthcare/",
       "date": "2026-11-12",
@@ -181,18 +211,6 @@
       "summary": "The following is a guest article by Michael Serbinis, Founder and CEO at League Summary Healthcare has always met rising demand by adding people, but that model no longer works, and AI agents that give every member and…",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "title": "STAT+: New documents raise more questions about Medicare’s AI prior-authorization experiment",
-      "url": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss",
-      "date": "2026-11-12",
-      "source": "STAT",
-      "summary": "In this edition of STAT Health Tech: Oura's big bet on AI, a 'rumble strip' for clinical chatbots, and questions around Medicare’s AI prior-auth experiment.",
-      "tags": [
-        "ai",
-        "biz",
-        "pol"
       ]
     },
     {
@@ -226,26 +244,6 @@
       "tags": [
         "ai",
         "biz"
-      ]
-    },
-    {
-      "title": "The ‘AI Saves Lives’ Trap at HIMSS Eastern Canada 2026",
-      "url": "https://www.healthcareittoday.com/2026/11/11/the-ai-saves-lives-trap-at-himss-eastern-canada-2026/",
-      "date": "2026-11-11",
-      "source": "Healthcare IT Today",
-      "summary": "The narrative that AI instantly saves lives is dangerously pushing IT leaders into a costly trap of rushed, poorly planned technology deployments. Learn why successful clinical AI implementations require leaders to move…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Healthcare AI: Is Your Patient Data Ready?",
-      "url": "https://www.healthcareittoday.com/2026/11/11/healthcare-ai-is-your-patient-data-ready/",
-      "date": "2026-11-11",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Bob Stanley director of special projects at Melissa Excellent AI models can’t win if the patient is not represented accurately AI has arrived in healthcare, and adoption has scaled up…",
-      "tags": [
-        "ai"
       ]
     },
     {
