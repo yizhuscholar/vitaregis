@@ -1,6 +1,167 @@
 {
-  "updated": "2026-11-15T17:35:41.910005+00:00",
+  "updated": "2026-11-16T20:50:22.643990+00:00",
   "items": [
+    {
+      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
+      "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "How RLDatix Uses AI as a Force Multiplier for Patient Safety",
+      "url": "https://www.healthcareittoday.com/2026/11/16/how-rldatix-uses-ai-as-a-force-multiplier-for-patient-safety/",
+      "date": "2026-11-16",
+      "source": "Healthcare IT Today",
+      "summary": "Single incident reports cannot prevent the next adverse event if they live in isolated data silos. Discover how RLDatix uses AI as a force multiplier to connect legacy shift and credentialing data, giving clinical…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
+      "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "CMS gives states another 6 months to implement Medicaid work requirements",
+      "url": "https://www.healthcaredive.com/news/cms-gives-states-another-6-months-to-implement-medicaid-work-requirements/874773/",
+      "date": "2026-11-16",
+      "source": "Healthcare Dive",
+      "summary": "The CMS is giving states a breather, allowing them to delay Medicaid work requirements through the end of June as they work to iron out who qualifies for coverage and exceptions.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Health AI spend doubles as providers invest in clinical copilots, front-office AI",
+      "url": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/",
+      "date": "2026-11-16",
+      "source": "Healthcare Dive",
+      "summary": "Healthcare AI spending more than doubled last year to $3.7 million as providers explore new uses in clinical copilots and patient engagement.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Apple, OpenEvidence launch conversational health AI study and app",
+      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
+      "date": "2026-11-16",
+      "source": "Healthcare Dive",
+      "summary": "The tech juggernaut and clinical AI company will research what drives consumer trust and the quality of health AI responses, among other areas. Apple could use the findings to inform product development.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Healthcare struggles to scale AI past pilot stage: Google report",
+      "url": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/",
+      "date": "2026-11-16",
+      "source": "Healthcare Dive",
+      "summary": "Healthcare bet big on AI pilots. Now, unpredictable costs and mounting technical complexity are threatening to prevent organizations from scaling the tech, according to Google Cloud’s Aashima Gupta.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Parkview Health Completes Acquisition of Ovation Healthcare | XRHealth Acquires PursueCare",
+      "url": "https://www.healthcareittoday.com/2026/11/16/parkview-health-completes-acquisition-of-ovation-healthcare-xrhealth-acquires-pursuecare/",
+      "date": "2026-11-16",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Parkview Health Completes Acquisition of Ovation Healthcare to Scale Shared…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Democrats settle on a message: ‘Medicare for More’",
+      "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+      "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Healthcare cybersecurity and compliance: Why HIPAA alone isn’t enough",
+      "url": "https://www.healthcaredive.com/spons/healthcare-cybersecurity-and-compliance-why-hipaa-alone-isnt-enough/874037/",
+      "date": "2026-11-16",
+      "source": "Healthcare Dive",
+      "summary": "How healthcare leaders are building resilience beyond HIPAA requirements.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
+      "url": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn’t ready to let its guard down.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+      "url": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/16/26",
+      "url": "https://histalk2.com/2026/11/15/morning-headlines-11-16-26/",
+      "date": "2026-11-16",
+      "source": "HIStalk",
+      "summary": "Wolters Kluwer to acquire AI-powered clinical decision support platform AgileMD Point-of-care clinical decision support and patient education company Wolters Kluwer Health will acquire AgileMD for up to $100 million.…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "Monday Morning Update 11/16/26",
+      "url": "https://histalk2.com/2026/11/15/monday-morning-update-11-16-26/",
+      "date": "2026-11-15",
+      "source": "HIStalk",
+      "summary": "Top News Point-of-care clinical decision support and patient education company Wolters Kluwer Health will acquire AgileMD for up to $100 million. AgileMD is 23-employee company based in San Francisco that offers…",
+      "tags": [
+        "biz"
+      ]
+    },
     {
       "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
       "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
@@ -32,16 +193,6 @@
       ]
     },
     {
-      "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
-      "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
-      "date": "2026-11-13",
-      "source": "STAT",
-      "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Medicare can’t add new home health, hospice facilities for 6 more months",
       "url": "https://www.healthcaredive.com/news/medicare-cant-add-new-home-health-hospice-facilities-for-6-more-months/874660/",
       "date": "2026-11-13",
@@ -62,54 +213,13 @@
       ]
     },
     {
-      "title": "Patient comfort with AI’s clinical decisions tied to provider oversight: Gallup",
-      "url": "https://www.healthcaredive.com/news/patient-comfort-with-ais-clinical-decisions-tied-to-provider-oversight-ga/874623/",
-      "date": "2026-11-13",
-      "source": "Healthcare Dive",
-      "summary": "Patients are more open to AI making decisions about their care than providers assume. But human oversight is what sells AI for them, according to a new poll.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "STAT+: HHS plans funding for research into ibogaine for PTSD",
-      "url": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
-      "date": "2026-11-13",
-      "source": "STAT",
-      "summary": "The Trump administration will funnel up to $4.9 million into supporting research into ibogaine, a psychedelic that’s drawn interest as a potential treatment for PTSD and addiction.",
-      "tags": [
-        "biz",
-        "pol"
-      ]
-    },
-    {
       "title": "When Your Billing Team is Overseas: What Data Residency Laws Teach About EHR Access",
       "url": "https://www.healthcareittoday.com/2026/11/13/when-your-billing-team-is-overseas-what-data-residency-laws-teach-about-ehr-access/",
       "date": "2026-11-13",
       "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Mohammad Alsaadany, Regional Director at BioNixus It usually surfaces on a Tuesday. A revenue-cycle director opens the overnight ticket queue and notices denial workups stamped at 3…",
+      "summary": "The following is a guest article by Mohammad Alsaadany, Director at BioNixus It usually surfaces on a Tuesday. A revenue-cycle director opens the overnight ticket queue and notices denial workups stamped at 3 a.m. local…",
       "tags": [
         "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/?utm_campaign=rss",
-      "date": "2026-11-13",
-      "source": "STAT",
-      "summary": "A deal for smart-ring maker Oura to acquire a telehealth company is raising conflict-of-interest questions for Eli Lilly",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Cassidy aide pledges No Surprises fix coming soon",
-      "url": "https://www.healthcaredive.com/news/cassidy-aide-pledges-no-surprises-fix-coming-soon/874539/",
-      "date": "2026-11-13",
-      "source": "Healthcare Dive",
-      "summary": "The veteran health senator is prepping legislation to address some of the key issues with the law’s dispute resolution process. It’ll be a “common sense, bipartisan approach,” an aide said Thursday.",
-      "tags": [
-        "pol"
       ]
     },
     {
@@ -118,26 +228,6 @@
       "date": "2026-11-13",
       "source": "Healthcare IT Today",
       "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Duet Raises $15M to Scale Nurse Practitioner-Owned Clinics,…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
-      "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
-      "date": "2026-11-13",
-      "source": "STAT",
-      "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
-      "url": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss",
-      "date": "2026-11-13",
-      "source": "STAT",
-      "summary": "With a new deal announced this week, the relationship between Eli Lilly and a telehealth company that markets GLP-1s is expected to grow more complicated.",
       "tags": [
         "biz"
       ]
@@ -153,26 +243,6 @@
       ]
     },
     {
-      "title": "News 11/13/26",
-      "url": "https://histalk2.com/2026/11/12/news-11-13-26/",
-      "date": "2026-11-13",
-      "source": "HIStalk",
-      "summary": "Top News Inovalon will acquire DrFirst, adding electronic prescribing, prior authorization, medication benefits, and patient engagement capabilities. The combined companies will serve 2,000 hospitals and 240,000…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Despite concerns, AI becomes daily fixture in physician workflows",
-      "url": "https://www.healthcaredive.com/news/despite-concerns-ai-becomes-daily-fixture-in-physician-workflows/874541/",
-      "date": "2026-11-12",
-      "source": "Healthcare Dive",
-      "summary": "AI use among physicians surged this year, with many using the tech to review medical literature and make clinical decisions despite concerns about its accuracy and impact on newer employees, according to a survey.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "title": "athenahealth Thrive 2026: Connecting athenaOne to Epic and Bringing Claude AI to the Patient Portal",
       "url": "https://www.healthcareittoday.com/2026/11/12/athenahealth-thrive-2026-connecting-athenaone-to-epic-and-bringing-claude-ai-to-the-patient-portal/",
       "date": "2026-11-12",
@@ -181,79 +251,6 @@
       "tags": [
         "ai",
         "biz"
-      ]
-    },
-    {
-      "title": "How Unity Health Is Improving Rural Care With Technology and New Funding",
-      "url": "https://www.healthcareittoday.com/2026/11/12/how-unity-health-is-improving-rural-care-with-technology-and-new-funding/",
-      "date": "2026-11-12",
-      "source": "Healthcare IT Today",
-      "summary": "Unity Health, a provider with 28 clinics and specialty centers in 8 counties of rural Arkansas, is managing to expand and to improve its services with the help of rural health transformation funds and their MEDITECH…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Will Heidi Overton get to run the FDA?",
-      "url": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
-      "date": "2026-11-12",
-      "source": "STAT",
-      "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "The Executive Guide to Scaling Agentic AI in Healthcare",
-      "url": "https://www.healthcareittoday.com/2026/11/12/the-executive-guide-to-scaling-agentic-ai-in-healthcare/",
-      "date": "2026-11-12",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Michael Serbinis, Founder and CEO at League Summary Healthcare has always met rising demand by adding people, but that model no longer works, and AI agents that give every member and…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "VisiQuate Acquires Artiva HCx | LeanTaaS Brings Ambient Intelligence to iQueue",
-      "url": "https://www.healthcareittoday.com/2026/11/12/visiquate-acquires-artiva-hcx-leantaas-brings-ambient-intelligence-to-iqueue/",
-      "date": "2026-11-12",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. VisiQuate Acquires Artiva HCx, Uniting Revenue Cycle Intelligence and…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Autonomous AI Is Transforming Healthcare Revenue Cycle Management",
-      "url": "https://www.healthcareittoday.com/2026/11/11/autonomous-ai-is-transforming-healthcare-revenue-cycle-management/",
-      "date": "2026-11-11",
-      "source": "Healthcare IT Today",
-      "summary": "AKASA deploys generative AI along with human expertise to apply AI to the health care revenue cycle. In a recent interview at the AHIMA Annual Conference, we explore the benefits offered by AI through Dr. Nirav Kamdar,…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Oura makes bet on AI in healthcare with $625M Counsel Health buy",
-      "url": "https://www.healthcaredive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874401/",
-      "date": "2026-11-11",
-      "source": "Healthcare Dive",
-      "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings.",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Google Cloud debuts Gemini for healthcare",
-      "url": "https://www.healthcaredive.com/news/google-cloud-debuts-gemini-for-healthcare/874371/",
-      "date": "2026-11-11",
-      "source": "Healthcare Dive",
-      "summary": "Google is the latest big tech company to launch a healthcare-specific agentic AI platform. The company touts the platform’s ability to integrate with third-party tools and automate clinical and administrative tasks.",
-      "tags": [
-        "ai"
       ]
     }
   ]
