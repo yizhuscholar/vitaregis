@@ -1,6 +1,158 @@
 {
-  "updated": "2026-11-16T20:50:22.643990+00:00",
+  "updated": "2026-11-17T19:39:26.671329+00:00",
   "items": [
+    {
+      "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+      "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
+      "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH.",
+      "tags": [
+        "ai",
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
+      "url": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Mayo Clinic taps AI, strategy leader as CEO",
+      "url": "https://www.healthcaredive.com/news/mayo-clinic-taps-ai-strategy-leader-as-ceo/874909/",
+      "date": "2026-11-17",
+      "source": "Healthcare Dive",
+      "summary": "Mayo Clinic’s medical director overseeing AI and strategy, Dr. Matthew Callstrom, will take the reins at Mayo starting next year.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "AI Is Taking the Busywork Out of Neurology Practice Operations",
+      "url": "https://www.healthcareittoday.com/2026/11/17/ai-is-taking-the-busywork-out-of-neurology-practice-operations/",
+      "date": "2026-11-17",
+      "source": "Healthcare IT Today",
+      "summary": "For one physician at Neurology Center of New England, the benefits of AI became especially clear when she was finally able to leave the office on a Friday at 5 PM with all her notes completed. Before adopting an AI…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Updated HIPAA privacy law sets rules for sharing health data with apps",
+      "url": "https://www.healthcaredive.com/news/updated-hipaa-privacy-law-sets-rules-for-sharing-health-data-with-apps/874845/",
+      "date": "2026-11-17",
+      "source": "Healthcare Dive",
+      "summary": "Patients will be able to get their health records faster under the new rule, according to the HHS. Office for Civil Rights Director Paula Stannard said she’s “convinced” it will enable better health data sharing and…",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: ‘Medicare for More’ gains traction",
+      "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "From pilot to platform: Johns Hopkins researcher on healthcare AI’s next chapter",
+      "url": "https://www.healthcaredive.com/news/from-pilot-to-platform-johns-hopkins-researcher-on-healthcare-ais-next-ch/874708/",
+      "date": "2026-11-17",
+      "source": "Healthcare Dive",
+      "summary": "Ritu Agarwal, a professor of information systems and health at the Johns Hopkins Carey Business School, shares her take on how healthcare organizations can realize AI’s true potential.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "ACCESS Will Test More Than Care Models—It Will Test Healthcare Technology",
+      "url": "https://www.healthcareittoday.com/2026/11/17/access-will-test-more-than-care-models-it-will-test-healthcare-technology/",
+      "date": "2026-11-17",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by David Harvey, CMS Product Manager at Cedar Gate Technologies, an IQVIA Business The launch of CMS’s Advancing Chronic Care with Effective, Scalable Solutions (ACCESS) model this…",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Inovalon To Acquire DrFirst | CSI Companies Acquires HCTec",
+      "url": "https://www.healthcareittoday.com/2026/11/17/inovalon-to-acquire-drfirst-csi-companies-acquires-hctec/",
+      "date": "2026-11-17",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Inovalon To Acquire Intelligent Medication Management Company DrFirst…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
+      "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
+      "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/17/26",
+      "url": "https://histalk2.com/2026/11/16/morning-headlines-11-17-26/",
+      "date": "2026-11-16",
+      "source": "HIStalk",
+      "summary": "Credo Health Acquires Affineon, Launches Pajama.ai to End Doctors’ “Pajama Time” Medical record retrieval company Credo Health acquires physician inbox management software startup Affineon Health and rebrands as…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
+      "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
+      "date": "2026-11-16",
+      "source": "STAT",
+      "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
       "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
@@ -22,21 +174,11 @@
       ]
     },
     {
-      "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
-      "url": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck.",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
       "title": "CMS gives states another 6 months to implement Medicaid work requirements",
       "url": "https://www.healthcaredive.com/news/cms-gives-states-another-6-months-to-implement-medicaid-work-requirements/874773/",
       "date": "2026-11-16",
       "source": "Healthcare Dive",
-      "summary": "The CMS is giving states a breather, allowing them to delay Medicaid work requirements through the end of June as they work to iron out who qualifies for coverage and exceptions.",
+      "summary": "The agency is giving states a breather, allowing them to delay work requirements through the end of June as they work to iron out who qualifies for coverage and exceptions.",
       "tags": [
         "pol"
       ]
@@ -62,16 +204,6 @@
       ]
     },
     {
-      "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
       "title": "Healthcare struggles to scale AI past pilot stage: Google report",
       "url": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/",
       "date": "2026-11-16",
@@ -89,56 +221,6 @@
       "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Parkview Health Completes Acquisition of Ovation Healthcare to Scale Shared…",
       "tags": [
         "biz"
-      ]
-    },
-    {
-      "title": "Democrats settle on a message: ‘Medicare for More’",
-      "url": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
-      "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Healthcare cybersecurity and compliance: Why HIPAA alone isn’t enough",
-      "url": "https://www.healthcaredive.com/spons/healthcare-cybersecurity-and-compliance-why-hipaa-alone-isnt-enough/874037/",
-      "date": "2026-11-16",
-      "source": "Healthcare Dive",
-      "summary": "How healthcare leaders are building resilience beyond HIPAA requirements.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "After difficult two years, medical school group’s leadership isn’t letting its guard down post midterms",
-      "url": "https://www.statnews.com/2026/11/16/aamc-ceo-david-skorton-qa-challenges-academic-medicine/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "After a tumultuous two years entangled in many consequential health and science policy debates, AAMCs isn’t ready to let its guard down.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
-      "url": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -163,16 +245,6 @@
       ]
     },
     {
-      "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
-      "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
-      "date": "2026-11-15",
-      "source": "STAT",
-      "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Bonus Features – November 15, 2026 – 69% or healthcare pros want their orgs to use more AI, 38% of patients are comfortable using AI to schedule appointments, plus 36 more stories",
       "url": "https://www.healthcareittoday.com/2026/11/15/bonus-features-november-15-2026-69-or-healthcare-pros-want-their-orgs-to-use-more-ai-38-of-patients-are-comfortable-using-ai-to-schedule-appointments-plus-36-more-stories/",
       "date": "2026-11-15",
@@ -180,77 +252,6 @@
       "summary": "Welcome to the weekly edition of Healthcare IT Today Bonus Features. This article will be a weekly roundup of interesting stories, product announcements, new hires, partnerships, research studies, awards, sales, and…",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
-      "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
-      "date": "2026-11-13",
-      "source": "STAT",
-      "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Medicare can’t add new home health, hospice facilities for 6 more months",
-      "url": "https://www.healthcaredive.com/news/medicare-cant-add-new-home-health-hospice-facilities-for-6-more-months/874660/",
-      "date": "2026-11-13",
-      "source": "Healthcare Dive",
-      "summary": "The extended ban will prevent home health agencies and hospices from enrolling in the Medicare program for another six months amid ongoing concerns about fraud in the sector.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Balancing the Need for Data Accessibility and Interoperability with Stringent Privacy and Security Requirements",
-      "url": "https://www.healthcareittoday.com/2026/11/13/balancing-the-need-for-data-accessibility-and-interoperability-with-stringent-privacy-and-security-requirements/",
-      "date": "2026-11-13",
-      "source": "Healthcare IT Today",
-      "summary": "In order for our patients to receive the best care possible, it is vital that their data is accessible and that we have well-established interoperability. However, with the sensitive nature of what we do, it is also…",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "When Your Billing Team is Overseas: What Data Residency Laws Teach About EHR Access",
-      "url": "https://www.healthcareittoday.com/2026/11/13/when-your-billing-team-is-overseas-what-data-residency-laws-teach-about-ehr-access/",
-      "date": "2026-11-13",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Mohammad Alsaadany, Director at BioNixus It usually surfaces on a Tuesday. A revenue-cycle director opens the overnight ticket queue and notices denial workups stamped at 3 a.m. local…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Duet Raises $15M | Vumedi Receives $104 Million Investment from Oak HC/FT",
-      "url": "https://www.healthcareittoday.com/2026/11/13/duet-raises-15m-vumedi-receives-104-million-investment-from-oak-hc-ft/",
-      "date": "2026-11-13",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Duet Raises $15M to Scale Nurse Practitioner-Owned Clinics,…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/13/26",
-      "url": "https://histalk2.com/2026/11/12/morning-headlines-11-13-26/",
-      "date": "2026-11-13",
-      "source": "HIStalk",
-      "summary": "CSI Companies Acquires Nashville, TN-based Healthcare IT Company, HCTec CSI Companies acquires Nashville-based HCTec for an undisclosed price, expanding its healthcare IT managed services with clinical help desk,…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "athenahealth Thrive 2026: Connecting athenaOne to Epic and Bringing Claude AI to the Patient Portal",
-      "url": "https://www.healthcareittoday.com/2026/11/12/athenahealth-thrive-2026-connecting-athenaone-to-epic-and-bringing-claude-ai-to-the-patient-portal/",
-      "date": "2026-11-12",
-      "source": "Healthcare IT Today",
-      "summary": "Discover how a new interoperability partnership between athenahealth and Epic uses the 360X standard to replace manual work with direct secure messaging, accelerating referrals and specialty access for patients.",
-      "tags": [
-        "ai",
-        "biz"
       ]
     }
   ]

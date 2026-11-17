@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:50:22.643990+00:00",
+  "updated": "2026-11-17T19:39:26.671329+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -38,6 +38,42 @@
       "ft": true
     },
     {
+      "title": "EXPRESS: Bounded Rationality in Public Healthcare Competition",
+      "authors": "Yu Zhang, Hao Wu, Zhongbin Wang",
+      "journal": "Production and Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1177/10591478261510191",
+      "utd": false,
+      "ft": true
+    },
+    {
+      "title": "EXPRESS: Bridging the Gap: The Impact of Online Booking of Healthcare Appointments Service",
+      "authors": "Liuyi He, Jifeng Luo, Panpan Wang, Zhiyan Wu et al.",
+      "journal": "Production and Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1177/10591478261505549",
+      "utd": false,
+      "ft": true
+    },
+    {
+      "title": "What drives physician efficiency? Evidence from emergency department operations",
+      "authors": "Raha Imanirad, Soroush Saghafian, Stephen J Traub, Nicole R Hodgson",
+      "journal": "Production and Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1177/10591478261504131",
+      "utd": false,
+      "ft": true
+    },
+    {
+      "title": "A practical guide to causal inference in healthcare operations using single-world intervention graphs (SWIGs)",
+      "authors": "Amy Louise Cochran, Sebastian Alejandro Alvarez-Avendaño, Fernando Acosta-Perez, Keith Eric Kocher et al.",
+      "journal": "Production and Operations Management",
+      "year": 2026,
+      "url": "https://doi.org/10.1177/10591478261483354",
+      "utd": false,
+      "ft": true
+    },
+    {
       "title": "Predicting Consultation Success on Online Health Platforms Using Dynamic Knowledge Networks and Multimodal Data Fusion",
       "authors": "Shuang Geng, Wenli Zhang, Jiaheng Xie, Gemin Liang et al.",
       "journal": "MIS Quarterly",
@@ -65,38 +101,29 @@
       "ft": true
     },
     {
-      "title": "Operational Process and Agency Considerations in Managing Emerging Technologies in Healthcare",
-      "authors": "Elliot Bendoly, Meng Li, Jeffrey Smith, Paul A. Pavlou",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70029",
+      "title": "The Digital Journey of Health Insurance Marketing: Narrative Ads and Product Page Design",
+      "authors": "Yin Bai, Rui Wang, Xingyao Ren, Rajdeep Grewal",
+      "journal": "Marketing Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mksc.2025.0168",
       "utd": true,
       "ft": true
     },
     {
-      "title": "Unlocking Privacy in Healthcare: The Impact of Explanations on Privacy Concerns and Self‐Disclosure to Conversational Technologies",
-      "authors": "Hashai Papneja, Sarv Devaraj",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70026",
+      "title": "Does Premium Version Adoption in mHealth Improve User Engagement and Health-Related Outcomes?",
+      "authors": "Yikun Jiang, Kosuke Uetake, Nathan Yang",
+      "journal": "Marketing Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mksc.2022.0437",
       "utd": true,
       "ft": true
     },
     {
-      "title": "A Model of Hospital Patient Engagement for Value Co‐Creation: Does It Affect Performance? A U.S. Hospital Industry Study",
-      "authors": "Shawnee K. Vickery, Matthew J. Castel, Sriram Narayanan, Mariana L. Nicolae",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70019",
-      "utd": true,
-      "ft": true
-    },
-    {
-      "title": "On Telemedicine Reimbursements and Hospital Adoption: A Policy Analysis Using Causal Inference Methods",
-      "authors": "Kang Bok Lee, Andrew Hildebrandt, Nitish Patidar, Shashank Rao",
-      "journal": "Journal of Operations Management",
-      "year": 2025,
-      "url": "https://doi.org/10.1002/joom.70021",
+      "title": "Bargaining and Network Effects in Two-Sided Platforms: Evidence from Online Healthcare",
+      "authors": "Xu Zhang, Junhong Chu, Puneet Manchanda",
+      "journal": "Marketing Science",
+      "year": 2026,
+      "url": "https://doi.org/10.1287/mksc.2024.0922",
       "utd": true,
       "ft": true
     },
@@ -106,6 +133,15 @@
       "journal": "MIS Quarterly",
       "year": 2025,
       "url": "https://doi.org/10.25300/misq/2025/18555",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Network Formation and Bargaining in Vertical Markets: The Case of Narrow Networks in Health Insurance",
+      "authors": "Soheil Ghili",
+      "journal": "Marketing Science",
+      "year": 2022,
+      "url": "https://doi.org/10.1287/mksc.2021.1331",
       "utd": true,
       "ft": true
     }
