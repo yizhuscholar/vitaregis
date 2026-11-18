@@ -1,6 +1,148 @@
 {
-  "updated": "2026-11-17T19:39:26.671329+00:00",
+  "updated": "2026-11-18T19:15:21.589699+00:00",
   "items": [
+    {
+      "title": "Healthcare AI News 11/18/26",
+      "url": "https://histalk2.com/2026/11/18/healthcare-ai-news-11-18-26/",
+      "date": "2026-11-18",
+      "source": "HIStalk",
+      "summary": "This column is presented by InterSystems. Learn how InterSystems helps healthcare organizations turn fragmented data into trusted, AI-ready information with solutions for interoperability, analytics, and real-time…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "From Scribes to NIA to Google Gemini: How NextGen Healthcare is Building a ‘System of Context’",
+      "url": "https://www.healthcareittoday.com/2026/11/18/from-scribes-to-nia-to-google-gemini-how-nextgen-healthcare-is-building-a-system-of-context/",
+      "date": "2026-11-18",
+      "source": "Healthcare IT Today",
+      "summary": "See how NextGen Healthcare is leveraging Google Gemini and layered AI orchestration to finally transform clinical workflows from a static \"system of record\" into an actionable \"system of context.\" This strategic pivot…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "CMS proposes sweeping reforms to curb healthcare fraud",
+      "url": "https://www.healthcaredive.com/news/cms-proposes-sweeping-reforms-to-curb-healthcare-fraud/875059/",
+      "date": "2026-11-18",
+      "source": "Healthcare Dive",
+      "summary": "The new rule would make it easier for the CMS to deny or revoke Medicare enrollment for providers suspected of fraud. It also places new restrictions on Medicaid and marketplace plans.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "AI is coming for primary care",
+      "url": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/",
+      "date": "2026-11-18",
+      "source": "Healthcare Dive",
+      "summary": "AI creates the potential for “completely autonomous self-driving doctors,” a wearables executive said at HLTH. Is the industry ready for that brave new world?",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
+      "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "The Hidden Cost of Growth: Why Multi-Location Specialty Groups Struggle to Scale Revenue Operations",
+      "url": "https://www.healthcareittoday.com/2026/11/18/the-hidden-cost-of-growth-why-multi-location-specialty-groups-struggle-to-scale-revenue-operations/",
+      "date": "2026-11-18",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by Charlene Wang, Co-Founder and CEO at Ember AI If you run revenue operations for a growing specialty group, you know the feeling. The group acquires three practices, and each arrives…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "Few payers are ready for looming electronic prior authorization deadline",
+      "url": "https://www.healthcaredive.com/news/few-payers-are-ready-for-looming-electronic-prior-authorization-deadline/874879/",
+      "date": "2026-11-18",
+      "source": "Healthcare Dive",
+      "summary": "Few payers are prepared to turn on prior authorization APIs by CMS’ Jan. 1 deadline, as most struggle to connect their IT systems and adapt their workflows.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
+      "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Suki debuts agentic operating system",
+      "url": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
+      "date": "2026-11-18",
+      "source": "Healthcare Dive",
+      "summary": "The AI scribe company is taking a wider lens beyond clinical care as it seeks to stand out in a competitive market of health AI vendors. Suki’s founder and CEO says it was always the plan.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
+      "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/18/26",
+      "url": "https://histalk2.com/2026/11/17/morning-headlines-11-18-26/",
+      "date": "2026-11-17",
+      "source": "HIStalk",
+      "summary": "Getting your medical records could soon be faster under new HIPAA rule The HHS Office for Civil Rights publishes the final HIPAA Privacy Rule, ensuring that patients have faster access to their medical records and ...",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "News 11/18/26",
+      "url": "https://histalk2.com/2026/11/17/news-11-18-26/",
+      "date": "2026-11-17",
+      "source": "HIStalk",
+      "summary": "Top News Medical record retrieval company Credo Health acquires physician inbox management software startup Affineon Health and changes its name to Pajama.ai. Credo Health CEO Carm Huntress remains in that role at…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
+      "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
+      "date": "2026-11-17",
+      "source": "STAT",
+      "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
       "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
@@ -83,56 +225,6 @@
       ]
     },
     {
-      "title": "ACCESS Will Test More Than Care Models—It Will Test Healthcare Technology",
-      "url": "https://www.healthcareittoday.com/2026/11/17/access-will-test-more-than-care-models-it-will-test-healthcare-technology/",
-      "date": "2026-11-17",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by David Harvey, CMS Product Manager at Cedar Gate Technologies, an IQVIA Business The launch of CMS’s Advancing Chronic Care with Effective, Scalable Solutions (ACCESS) model this…",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Inovalon To Acquire DrFirst | CSI Companies Acquires HCTec",
-      "url": "https://www.healthcareittoday.com/2026/11/17/inovalon-to-acquire-drfirst-csi-companies-acquires-hctec/",
-      "date": "2026-11-17",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Inovalon To Acquire Intelligent Medication Management Company DrFirst…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Faith-based addiction recovery groups don’t often get federal funding. RFK Jr. wants to change that",
-      "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "STAT+: New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage",
-      "url": "https://www.statnews.com/2026/11/16/cms-proposes-more-agressive-audits-medicare-advantage-crush/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "New Trump regulation promises to crush ‘fraudsters.’ All the savings come from Medicare Advantage.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Morning Headlines 11/17/26",
       "url": "https://histalk2.com/2026/11/16/morning-headlines-11-17-26/",
       "date": "2026-11-16",
@@ -141,26 +233,6 @@
       "tags": [
         "ai",
         "biz"
-      ]
-    },
-    {
-      "title": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
-      "url": "https://www.statnews.com/2026/11/16/fda-approves-new-roche-breast-cancer-drug/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "The FDA approved a new breast cancer drug from Roche, teeing up the launch of a medicine the company has said could become its top-selling product ever.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-      "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-      "date": "2026-11-16",
-      "source": "STAT",
-      "summary": "The supplement NAC has been widely available for years, but exists in a legal gray area.",
-      "tags": [
-        "pol"
       ]
     },
     {
@@ -174,82 +246,11 @@
       ]
     },
     {
-      "title": "CMS gives states another 6 months to implement Medicaid work requirements",
-      "url": "https://www.healthcaredive.com/news/cms-gives-states-another-6-months-to-implement-medicaid-work-requirements/874773/",
-      "date": "2026-11-16",
-      "source": "Healthcare Dive",
-      "summary": "The agency is giving states a breather, allowing them to delay work requirements through the end of June as they work to iron out who qualifies for coverage and exceptions.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Health AI spend doubles as providers invest in clinical copilots, front-office AI",
       "url": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/",
       "date": "2026-11-16",
       "source": "Healthcare Dive",
       "summary": "Healthcare AI spending more than doubled last year to $3.7 million as providers explore new uses in clinical copilots and patient engagement.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Apple, OpenEvidence launch conversational health AI study and app",
-      "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
-      "date": "2026-11-16",
-      "source": "Healthcare Dive",
-      "summary": "The tech juggernaut and clinical AI company will research what drives consumer trust and the quality of health AI responses, among other areas. Apple could use the findings to inform product development.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Healthcare struggles to scale AI past pilot stage: Google report",
-      "url": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/",
-      "date": "2026-11-16",
-      "source": "Healthcare Dive",
-      "summary": "Healthcare bet big on AI pilots. Now, unpredictable costs and mounting technical complexity are threatening to prevent organizations from scaling the tech, according to Google Cloud’s Aashima Gupta.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Parkview Health Completes Acquisition of Ovation Healthcare | XRHealth Acquires PursueCare",
-      "url": "https://www.healthcareittoday.com/2026/11/16/parkview-health-completes-acquisition-of-ovation-healthcare-xrhealth-acquires-pursuecare/",
-      "date": "2026-11-16",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Parkview Health Completes Acquisition of Ovation Healthcare to Scale Shared…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/16/26",
-      "url": "https://histalk2.com/2026/11/15/morning-headlines-11-16-26/",
-      "date": "2026-11-16",
-      "source": "HIStalk",
-      "summary": "Wolters Kluwer to acquire AI-powered clinical decision support platform AgileMD Point-of-care clinical decision support and patient education company Wolters Kluwer Health will acquire AgileMD for up to $100 million.…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Monday Morning Update 11/16/26",
-      "url": "https://histalk2.com/2026/11/15/monday-morning-update-11-16-26/",
-      "date": "2026-11-15",
-      "source": "HIStalk",
-      "summary": "Top News Point-of-care clinical decision support and patient education company Wolters Kluwer Health will acquire AgileMD for up to $100 million. AgileMD is 23-employee company based in San Francisco that offers…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Bonus Features – November 15, 2026 – 69% or healthcare pros want their orgs to use more AI, 38% of patients are comfortable using AI to schedule appointments, plus 36 more stories",
-      "url": "https://www.healthcareittoday.com/2026/11/15/bonus-features-november-15-2026-69-or-healthcare-pros-want-their-orgs-to-use-more-ai-38-of-patients-are-comfortable-using-ai-to-schedule-appointments-plus-36-more-stories/",
-      "date": "2026-11-15",
-      "source": "Healthcare IT Today",
-      "summary": "Welcome to the weekly edition of Healthcare IT Today Bonus Features. This article will be a weekly roundup of interesting stories, product announcements, new hires, partnerships, research studies, awards, sales, and…",
       "tags": [
         "ai"
       ]
