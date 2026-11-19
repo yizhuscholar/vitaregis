@@ -1,6 +1,158 @@
 {
-  "updated": "2026-11-18T19:15:21.589699+00:00",
+  "updated": "2026-11-19T19:23:11.513878+00:00",
   "items": [
+    {
+      "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+      "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: MAHA PAC’s steakhouse spend",
+      "url": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Republicans contend with lack of drug policy action, despite controlling Congress",
+      "url": "https://www.healthcaredive.com/news/republicans-contend-with-lack-of-drug-policy-action-despite-controlling-co/875195/",
+      "date": "2026-11-19",
+      "source": "Healthcare Dive",
+      "summary": "Drug costs are too high, lawmakers agreed at a Senate committee hearing this week. But industry pushback and delays have stalled reform of a system experts say is rigged.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Healthcare firms fail to monitor AI tools as shadow AI leads to breaches",
+      "url": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/",
+      "date": "2026-11-19",
+      "source": "Healthcare Dive",
+      "summary": "The industry is embracing new technology, but security teams are stretched too thin to monitor it all.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "How Carroll County Memorial is Using AI to Reduce Staff Burden, Help Patients, and Protect Margins",
+      "url": "https://www.healthcareittoday.com/2026/11/19/how-carroll-county-memorial-is-using-ai-to-reduce-staff-burden-help-patients-and-protect-margins/",
+      "date": "2026-11-19",
+      "source": "Healthcare IT Today",
+      "summary": "Rural hospitals cannot wait for perfect market maturity to fix operational bottlenecks. Dr. Andy Horine, CMIO at Carroll County Memorial Hospital, explains how his team applies targeted AI solutions to eliminate…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Knit Health CEO on the AI startup building healthcare’s connective tissue",
+      "url": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/",
+      "date": "2026-11-19",
+      "source": "Healthcare Dive",
+      "summary": "Knit announced a $35 million Series A this month — money that will accelerate the commercialization of the startup’s healthcare world model. Lots of hospitals are interested, Jonathan Kolstad said.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Why Human Review Must Remain a Designed Step in AI-Assisted Healthcare Documentation",
+      "url": "https://www.healthcareittoday.com/2026/11/19/why-human-review-must-remain-a-designed-step-in-ai-assisted-healthcare-documentation/",
+      "date": "2026-11-19",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by Shaheryar Muhammad Khan, Founder & CEO at Nxthatch Technologies AI Can Draft a Record, the Workflow Must Decide When It Is Ready AI-assisted documentation can reduce repetitive data…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Epic defends competitive practices; promises AI access to records",
+      "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Sleep.ai Raises $5.3M | Proximal Ventures Announces $27.5 Million Debut Fund",
+      "url": "https://www.healthcareittoday.com/2026/11/19/sleep-ai-raises-5-3m-proximal-ventures-announces-27-5-million-debut-fund/",
+      "date": "2026-11-19",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Sleep.ai Raises $5.3M as Real-World Sleep Data Surpasses 1.1B…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
+      "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/19/26",
+      "url": "https://histalk2.com/2026/11/18/morning-headlines-11-19-26/",
+      "date": "2026-11-19",
+      "source": "HIStalk",
+      "summary": "Aevius Launches with $22 Million in Funding to Make Medicine Computable Healthcare AI model development startup Aevius launches with $22 million in new funding. ‘I’m not here to declare victory’: Oracle and VA face…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+      "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
+      "url": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: The emerging winners and losers in the AI scribe market",
+      "url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
+      "date": "2026-11-18",
+      "source": "STAT",
+      "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "title": "Healthcare AI News 11/18/26",
       "url": "https://histalk2.com/2026/11/18/healthcare-ai-news-11-18-26/",
@@ -67,27 +219,7 @@
       "url": "https://www.healthcaredive.com/news/few-payers-are-ready-for-looming-electronic-prior-authorization-deadline/874879/",
       "date": "2026-11-18",
       "source": "Healthcare Dive",
-      "summary": "Few payers are prepared to turn on prior authorization APIs by CMS’ Jan. 1 deadline, as most struggle to connect their IT systems and adapt their workflows.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
-      "url": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "The FDA published its complete response letter to Summit Therapeutics explaining why it rejected the biotech's closely watched lung cancer drug:",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/18/heidi-overton-fda-nomination-yanked-merck-cancer-drug-setback/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "The Trump administration is pulling the nomination of Heidi Overton to lead the FDA over concerns she lacked support to get confirmed by the Senate",
+      "summary": "Few payers are prepared to turn on prior authorization APIs by the CMS’ Jan. 1 deadline, as most struggle to connect their IT systems and adapt their workflows.",
       "tags": [
         "pol"
       ]
@@ -98,78 +230,6 @@
       "date": "2026-11-18",
       "source": "Healthcare Dive",
       "summary": "The AI scribe company is taking a wider lens beyond clinical care as it seeks to stand out in a competitive market of health AI vendors. Suki’s founder and CEO says it was always the plan.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
-      "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/18/26",
-      "url": "https://histalk2.com/2026/11/17/morning-headlines-11-18-26/",
-      "date": "2026-11-17",
-      "source": "HIStalk",
-      "summary": "Getting your medical records could soon be faster under new HIPAA rule The HHS Office for Civil Rights publishes the final HIPAA Privacy Rule, ensuring that patients have faster access to their medical records and ...",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "News 11/18/26",
-      "url": "https://histalk2.com/2026/11/17/news-11-18-26/",
-      "date": "2026-11-17",
-      "source": "HIStalk",
-      "summary": "Top News Medical record retrieval company Credo Health acquires physician inbox management software startup Affineon Health and changes its name to Pajama.ai. Credo Health CEO Carm Huntress remains in that role at…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
-      "url": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
-      "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
-      "url": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH.",
-      "tags": [
-        "ai",
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
-      "url": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:",
       "tags": [
         "ai"
       ]
@@ -190,67 +250,6 @@
       "date": "2026-11-17",
       "source": "Healthcare IT Today",
       "summary": "For one physician at Neurology Center of New England, the benefits of AI became especially clear when she was finally able to leave the office on a Friday at 5 PM with all her notes completed. Before adopting an AI…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Updated HIPAA privacy law sets rules for sharing health data with apps",
-      "url": "https://www.healthcaredive.com/news/updated-hipaa-privacy-law-sets-rules-for-sharing-health-data-with-apps/874845/",
-      "date": "2026-11-17",
-      "source": "Healthcare Dive",
-      "summary": "Patients will be able to get their health records faster under the new rule, according to the HHS. Office for Civil Rights Director Paula Stannard said she’s “convinced” it will enable better health data sharing and…",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: ‘Medicare for More’ gains traction",
-      "url": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
-      "date": "2026-11-17",
-      "source": "STAT",
-      "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "From pilot to platform: Johns Hopkins researcher on healthcare AI’s next chapter",
-      "url": "https://www.healthcaredive.com/news/from-pilot-to-platform-johns-hopkins-researcher-on-healthcare-ais-next-ch/874708/",
-      "date": "2026-11-17",
-      "source": "Healthcare Dive",
-      "summary": "Ritu Agarwal, a professor of information systems and health at the Johns Hopkins Carey Business School, shares her take on how healthcare organizations can realize AI’s true potential.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/17/26",
-      "url": "https://histalk2.com/2026/11/16/morning-headlines-11-17-26/",
-      "date": "2026-11-16",
-      "source": "HIStalk",
-      "summary": "Credo Health Acquires Affineon, Launches Pajama.ai to End Doctors’ “Pajama Time” Medical record retrieval company Credo Health acquires physician inbox management software startup Affineon Health and rebrands as…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "How RLDatix Uses AI as a Force Multiplier for Patient Safety",
-      "url": "https://www.healthcareittoday.com/2026/11/16/how-rldatix-uses-ai-as-a-force-multiplier-for-patient-safety/",
-      "date": "2026-11-16",
-      "source": "Healthcare IT Today",
-      "summary": "Single incident reports cannot prevent the next adverse event if they live in isolated data silos. Discover how RLDatix uses AI as a force multiplier to connect legacy shift and credentialing data, giving clinical…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Health AI spend doubles as providers invest in clinical copilots, front-office AI",
-      "url": "https://www.healthcaredive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/874752/",
-      "date": "2026-11-16",
-      "source": "Healthcare Dive",
-      "summary": "Healthcare AI spending more than doubled last year to $3.7 million as providers explore new uses in clinical copilots and patient engagement.",
       "tags": [
         "ai"
       ]
