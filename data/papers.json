@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T19:23:11.513878+00:00",
+  "updated": "2026-11-20T18:58:41.678490+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -65,47 +65,47 @@
       "ft": true
     },
     {
-      "title": "EXPRESS: Bounded Rationality in Public Healthcare Competition",
-      "authors": "Yu Zhang, Hao Wu, Zhongbin Wang",
-      "journal": "Production and Operations Management",
-      "year": 2026,
-      "url": "https://doi.org/10.1177/10591478261510191",
-      "utd": false,
-      "ft": true
-    },
-    {
-      "title": "EXPRESS: Bridging the Gap: The Impact of Online Booking of Healthcare Appointments Service",
-      "authors": "Liuyi He, Jifeng Luo, Panpan Wang, Zhiyan Wu et al.",
-      "journal": "Production and Operations Management",
-      "year": 2026,
-      "url": "https://doi.org/10.1177/10591478261505549",
-      "utd": false,
-      "ft": true
-    },
-    {
-      "title": "What drives physician efficiency? Evidence from emergency department operations",
-      "authors": "Raha Imanirad, Soroush Saghafian, Stephen J Traub, Nicole R Hodgson",
-      "journal": "Production and Operations Management",
-      "year": 2026,
-      "url": "https://doi.org/10.1177/10591478261504131",
-      "utd": false,
-      "ft": true
-    },
-    {
-      "title": "A practical guide to causal inference in healthcare operations using single-world intervention graphs (SWIGs)",
-      "authors": "Amy Louise Cochran, Sebastian Alejandro Alvarez-Avendaño, Fernando Acosta-Perez, Keith Eric Kocher et al.",
-      "journal": "Production and Operations Management",
-      "year": 2026,
-      "url": "https://doi.org/10.1177/10591478261483354",
-      "utd": false,
-      "ft": true
-    },
-    {
       "title": "Dynamic Control of Service Systems with Returns: Application to Design of Postdischarge Hospital Readmission Prevention Programs",
       "authors": "Timothy C. Y. Chan, Simon Y. Huang, Vahid Sarhangian",
       "journal": "Operations Research",
       "year": 2025,
       "url": "https://doi.org/10.1287/opre.2022.0066",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Operational Process and Agency Considerations in Managing Emerging Technologies in Healthcare",
+      "authors": "Elliot Bendoly, Meng Li, Jeffrey Smith, Paul A. Pavlou",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70029",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "Unlocking Privacy in Healthcare: The Impact of Explanations on Privacy Concerns and Self‐Disclosure to Conversational Technologies",
+      "authors": "Hashai Papneja, Sarv Devaraj",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70026",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "A Model of Hospital Patient Engagement for Value Co‐Creation: Does It Affect Performance? A U.S. Hospital Industry Study",
+      "authors": "Shawnee K. Vickery, Matthew J. Castel, Sriram Narayanan, Mariana L. Nicolae",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70019",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "On Telemedicine Reimbursements and Hospital Adoption: A Policy Analysis Using Causal Inference Methods",
+      "authors": "Kang Bok Lee, Andrew Hildebrandt, Nitish Patidar, Shashank Rao",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70021",
       "utd": true,
       "ft": true
     }

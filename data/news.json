@@ -1,6 +1,118 @@
 {
-  "updated": "2026-11-19T19:23:11.513878+00:00",
+  "updated": "2026-11-20T18:58:41.678490+00:00",
   "items": [
+    {
+      "title": "Margins hit new low as hospitals brace for uninsured surge",
+      "url": "https://www.healthcaredive.com/news/margins-hit-new-low-as-hospitals-brace-for-uninsured-surge/875353/",
+      "date": "2026-11-20",
+      "source": "Healthcare Dive",
+      "summary": "Nearly half of hospitals and health systems are now losing money, according to Kaufman Hall. With Medicaid reform looming, uncompensated care could push even more facilities into the red.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "From Prior Authorization to Payment: Why Healthcare Needs an AI + FHIR Operating Layer",
+      "url": "https://www.healthcareittoday.com/2026/11/20/from-prior-authorization-to-payment-why-healthcare-needs-an-ai-fhir-operating-layer/",
+      "date": "2026-11-20",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by Shridhar Rajanna, Lead Business Analyst at HealthAsyst Healthcare interoperability has made significant progress in answering one important question: How can healthcare systems…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Medicare ACO program posts $2.5B in savings as CMS pushes growth",
+      "url": "https://www.healthcaredive.com/news/medicare-aco-program-posts-25b-in-savings-as-cms-pushes-growth/875312/",
+      "date": "2026-11-20",
+      "source": "Healthcare Dive",
+      "summary": "ACOs brought in their biggest savings yet in 2025. Now, CMS wants to drive participation in the program even higher.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "source": "STAT",
+      "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
+      "tags": [
+        "ai",
+        "pol"
+      ]
+    },
+    {
+      "title": "Commure Acquires Elaborate | Thurston Group Partners with Pixel Health",
+      "url": "https://www.healthcareittoday.com/2026/11/20/commure-acquires-elaborate-thurston-group-partners-with-pixel-health/",
+      "date": "2026-11-20",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Commure Acquires Elaborate to Cure the Clinician Inbox Brings…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+      "url": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "source": "STAT",
+      "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+      "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "source": "STAT",
+      "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/20/26",
+      "url": "https://histalk2.com/2026/11/19/morning-headlines-11-20-26/",
+      "date": "2026-11-20",
+      "source": "HIStalk",
+      "summary": "Anthropic closes debut with $1.8 trillion market cap in landmark moment for AI Claude parent company Anthropic’s IPO raises a record-breaking $81.3 billion, giving it a $1.76 trillion valuation. Adjective Health…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "News 11/20/26",
+      "url": "https://histalk2.com/2026/11/19/news-11-20-26/",
+      "date": "2026-11-19",
+      "source": "HIStalk",
+      "summary": "Top News Claude parent company Anthropic’s IPO brings in a record-breaking $81.3 billion, giving it a $1.76 trillion valuation. Healthcare customers include Banner Health, Commure, Elation Health, and Premier. It…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+      "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
+      "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
+      "date": "2026-11-19",
+      "source": "STAT",
+      "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
+      "tags": [
+        "biz"
+      ]
+    },
     {
       "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
       "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
@@ -103,16 +215,6 @@
       ]
     },
     {
-      "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-      "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Morning Headlines 11/19/26",
       "url": "https://histalk2.com/2026/11/18/morning-headlines-11-19-26/",
       "date": "2026-11-19",
@@ -121,36 +223,6 @@
       "tags": [
         "ai",
         "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
-      "url": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
-      "url": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "STAT tackles the most important questions about the FDA's uncertain future.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: The emerging winners and losers in the AI scribe market",
-      "url": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -174,82 +246,11 @@
       ]
     },
     {
-      "title": "CMS proposes sweeping reforms to curb healthcare fraud",
-      "url": "https://www.healthcaredive.com/news/cms-proposes-sweeping-reforms-to-curb-healthcare-fraud/875059/",
-      "date": "2026-11-18",
-      "source": "Healthcare Dive",
-      "summary": "The new rule would make it easier for the CMS to deny or revoke Medicare enrollment for providers suspected of fraud. It also places new restrictions on Medicaid and marketplace plans.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "AI is coming for primary care",
       "url": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/",
       "date": "2026-11-18",
       "source": "Healthcare Dive",
       "summary": "AI creates the potential for “completely autonomous self-driving doctors,” a wearables executive said at HLTH. Is the industry ready for that brave new world?",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
-      "url": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
-      "date": "2026-11-18",
-      "source": "STAT",
-      "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "The Hidden Cost of Growth: Why Multi-Location Specialty Groups Struggle to Scale Revenue Operations",
-      "url": "https://www.healthcareittoday.com/2026/11/18/the-hidden-cost-of-growth-why-multi-location-specialty-groups-struggle-to-scale-revenue-operations/",
-      "date": "2026-11-18",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Charlene Wang, Co-Founder and CEO at Ember AI If you run revenue operations for a growing specialty group, you know the feeling. The group acquires three practices, and each arrives…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Few payers are ready for looming electronic prior authorization deadline",
-      "url": "https://www.healthcaredive.com/news/few-payers-are-ready-for-looming-electronic-prior-authorization-deadline/874879/",
-      "date": "2026-11-18",
-      "source": "Healthcare Dive",
-      "summary": "Few payers are prepared to turn on prior authorization APIs by the CMS’ Jan. 1 deadline, as most struggle to connect their IT systems and adapt their workflows.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Suki debuts agentic operating system",
-      "url": "https://www.healthcaredive.com/news/suki-debuts-agentic-operating-system/874848/",
-      "date": "2026-11-18",
-      "source": "Healthcare Dive",
-      "summary": "The AI scribe company is taking a wider lens beyond clinical care as it seeks to stand out in a competitive market of health AI vendors. Suki’s founder and CEO says it was always the plan.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Mayo Clinic taps AI, strategy leader as CEO",
-      "url": "https://www.healthcaredive.com/news/mayo-clinic-taps-ai-strategy-leader-as-ceo/874909/",
-      "date": "2026-11-17",
-      "source": "Healthcare Dive",
-      "summary": "Mayo Clinic’s medical director overseeing AI and strategy, Dr. Matthew Callstrom, will take the reins at Mayo starting next year.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "AI Is Taking the Busywork Out of Neurology Practice Operations",
-      "url": "https://www.healthcareittoday.com/2026/11/17/ai-is-taking-the-busywork-out-of-neurology-practice-operations/",
-      "date": "2026-11-17",
-      "source": "Healthcare IT Today",
-      "summary": "For one physician at Neurology Center of New England, the benefits of AI became especially clear when she was finally able to leave the office on a Friday at 5 PM with all her notes completed. Before adopting an AI…",
       "tags": [
         "ai"
       ]
