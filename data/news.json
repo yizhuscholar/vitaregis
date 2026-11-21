@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-20T18:58:41.678490+00:00",
+  "updated": "2026-11-21T17:53:27.325012+00:00",
   "items": [
+    {
+      "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+      "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "source": "STAT",
+      "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+      "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+      "date": "2026-11-20",
+      "source": "STAT",
+      "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "Margins hit new low as hospitals brace for uninsured surge",
       "url": "https://www.healthcaredive.com/news/margins-hit-new-low-as-hospitals-brace-for-uninsured-surge/875353/",
@@ -124,16 +144,6 @@
       ]
     },
     {
-      "title": "STAT+: MAHA PAC’s steakhouse spend",
-      "url": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Republicans contend with lack of drug policy action, despite controlling Congress",
       "url": "https://www.healthcaredive.com/news/republicans-contend-with-lack-of-drug-policy-action-despite-controlling-co/875195/",
       "date": "2026-11-19",
@@ -184,16 +194,6 @@
       ]
     },
     {
-      "title": "STAT+: Epic defends competitive practices; promises AI access to records",
-      "url": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "title": "Sleep.ai Raises $5.3M | Proximal Ventures Announces $27.5 Million Debut Fund",
       "url": "https://www.healthcareittoday.com/2026/11/19/sleep-ai-raises-5-3m-proximal-ventures-announces-27-5-million-debut-fund/",
       "date": "2026-11-19",
@@ -202,16 +202,6 @@
       "tags": [
         "ai",
         "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology",
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -243,6 +233,16 @@
       "summary": "See how NextGen Healthcare is leveraging Google Gemini and layered AI orchestration to finally transform clinical workflows from a static \"system of record\" into an actionable \"system of context.\" This strategic pivot…",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "title": "CMS proposes sweeping reforms to curb healthcare fraud",
+      "url": "https://www.healthcaredive.com/news/cms-proposes-sweeping-reforms-to-curb-healthcare-fraud/875059/",
+      "date": "2026-11-18",
+      "source": "Healthcare Dive",
+      "summary": "The new rule would make it easier for the CMS to deny or revoke Medicare enrollment for providers suspected of fraud. It also places new restrictions on Medicaid and marketplace plans.",
+      "tags": [
+        "pol"
       ]
     },
     {
