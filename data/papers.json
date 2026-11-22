@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:53:27.325012+00:00",
+  "updated": "2026-11-22T18:16:05.860783+00:00",
   "items": [
     {
       "title": "Health Shocks and Annuity Choices",
@@ -74,56 +74,74 @@
       "ft": true
     },
     {
-      "title": "Predicting Consultation Success on Online Health Platforms Using Dynamic Knowledge Networks and Multimodal Data Fusion",
-      "authors": "Shuang Geng, Wenli Zhang, Jiaheng Xie, Gemin Liang et al.",
-      "journal": "MIS Quarterly",
+      "title": "EXPRESS: Estimating censored demand in family planning supply chains: forecast accuracy, inventory implications, and public health outcomes",
+      "authors": "Harsha Chamara Hewage, Bahman Rostami-Tabar, Aris Syntetos, Federico Liberatore et al.",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.25300/misq/2025/19444",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261511731",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Health Information Technology Redeployment From Targets to Acquirers in the Healthcare Industry: The Role of Co-Specialized Human Capital in Value Creation",
-      "authors": "Chengxin Cao, Gautam Ray, Mani Subramani, Alok Gupta",
-      "journal": "MIS Quarterly",
+      "title": "EXPRESS: Bounded Rationality in Public Healthcare Competition",
+      "authors": "Yu Zhang, Hao Wu, Zhongbin Wang",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.25300/misq/2025/18693",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261510191",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Reconceptualizing Patient Engagement with Mobile Healthcare Apps: A Computationally Intensive Theory Development for Patient Engagement Networks",
-      "authors": "Inkyoung Hur, Chul Woo Yoo, Jahyun Goo, Weidong Xia",
-      "journal": "MIS Quarterly",
+      "title": "EXPRESS: Bridging the Gap: The Impact of Online Booking of Healthcare Appointments Service",
+      "authors": "Liuyi He, Jifeng Luo, Panpan Wang, Zhiyan Wu et al.",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.25300/misq/2026/19117",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261505549",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Transactive Memory Systems and Hospital Trauma Team Performance: Shared Experience in Action Teams",
-      "authors": "Linda Argote, Jerry Guo, Ki-Won Haan, Matthew R. Rosengart et al.",
-      "journal": "Organization Science",
+      "title": "What drives physician efficiency? Evidence from emergency department operations",
+      "authors": "Raha Imanirad, Soroush Saghafian, Stephen J Traub, Nicole R Hodgson",
+      "journal": "Production and Operations Management",
       "year": 2026,
-      "url": "https://doi.org/10.1287/orsc.2024.19022",
-      "utd": true,
+      "url": "https://doi.org/10.1177/10591478261504131",
+      "utd": false,
       "ft": true
     },
     {
-      "title": "Judgmental Bot: Conversational Agents in Online Mental Health Screening",
-      "authors": "Ryan Raimi, Antino Kim, Sezgin Ayabakan, Alan R. Dennis",
-      "journal": "MIS Quarterly",
+      "title": "Operational Process and Agency Considerations in Managing Emerging Technologies in Healthcare",
+      "authors": "Elliot Bendoly, Meng Li, Jeffrey Smith, Paul A. Pavlou",
+      "journal": "Journal of Operations Management",
       "year": 2025,
-      "url": "https://doi.org/10.25300/misq/2025/18555",
+      "url": "https://doi.org/10.1002/joom.70029",
       "utd": true,
       "ft": true
     },
     {
-      "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
-      "authors": "Shirish Sundaresan, Isin Guler",
-      "journal": "Organization Science",
+      "title": "Unlocking Privacy in Healthcare: The Impact of Explanations on Privacy Concerns and Self‐Disclosure to Conversational Technologies",
+      "authors": "Hashai Papneja, Sarv Devaraj",
+      "journal": "Journal of Operations Management",
       "year": 2025,
-      "url": "https://doi.org/10.1287/orsc.2022.16738",
+      "url": "https://doi.org/10.1002/joom.70026",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "A Model of Hospital Patient Engagement for Value Co‐Creation: Does It Affect Performance? A U.S. Hospital Industry Study",
+      "authors": "Shawnee K. Vickery, Matthew J. Castel, Sriram Narayanan, Mariana L. Nicolae",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70019",
+      "utd": true,
+      "ft": true
+    },
+    {
+      "title": "On Telemedicine Reimbursements and Hospital Adoption: A Policy Analysis Using Causal Inference Methods",
+      "authors": "Kang Bok Lee, Andrew Hildebrandt, Nitish Patidar, Shashank Rao",
+      "journal": "Journal of Operations Management",
+      "year": 2025,
+      "url": "https://doi.org/10.1002/joom.70021",
       "utd": true,
       "ft": true
     }
