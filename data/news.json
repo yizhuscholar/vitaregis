@@ -1,6 +1,68 @@
 {
-  "updated": "2026-11-22T18:16:05.860783+00:00",
+  "updated": "2026-11-23T22:28:24.160424+00:00",
   "items": [
+    {
+      "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+      "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
+      "date": "2026-11-23",
+      "source": "STAT",
+      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Healthcare Data Standards and AI – Healthcare IT Today Podcast Episode 205",
+      "url": "https://www.healthcareittoday.com/2026/11/23/healthcare-data-standards-and-ai-healthcare-it-today-podcast-episode-205/",
+      "date": "2026-11-23",
+      "source": "Healthcare IT Today",
+      "summary": "For the 205th episode of the Healthcare IT Today Podcast, I am joined by special guest host David Pyke, Standards Architect at Pyke Health IT, to talk about healthcare data standards and AI! We kick this episode off by…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
+      "date": "2026-11-23",
+      "source": "STAT",
+      "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
+      "tags": [
+        "biz",
+        "pol"
+      ]
+    },
+    {
+      "title": "Ortet Launches With $500 Million Commitment from Thoreau | Vitalize Raises $31M Series A",
+      "url": "https://www.healthcareittoday.com/2026/11/23/ortet-launches-with-500-million-commitment-from-thoreau-vitalize-raises-31m-series-a/",
+      "date": "2026-11-23",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Ortet Launches as Frontier AI Lab for Health With $500 Million…",
+      "tags": [
+        "ai",
+        "biz"
+      ]
+    },
+    {
+      "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+      "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
+      "date": "2026-11-23",
+      "source": "STAT",
+      "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Morning Headlines 11/23/26",
+      "url": "https://histalk2.com/2026/11/22/morning-headlines-11-23-26/",
+      "date": "2026-11-22",
+      "source": "HIStalk",
+      "summary": "Electronic health records contain information that may help predict pregnancy complications Kaiser Permanente researchers find that using existing EHR data can help train AI models on identifying first-trimester…",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
       "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
@@ -29,6 +91,16 @@
       "summary": "Nearly half of hospitals and health systems are now losing money, according to Kaufman Hall. With Medicaid reform looming, uncompensated care could push even more facilities into the red.",
       "tags": [
         "pol"
+      ]
+    },
+    {
+      "title": "AI and affordability steal the show: 6 takeaways from HLTH",
+      "url": "https://www.healthcaredive.com/news/ai-affordability-glp-1s-longevity-hlth-2026-takeaways/875048/",
+      "date": "2026-11-20",
+      "source": "Healthcare Dive",
+      "summary": "From agentic AI to GLP-1s, HLTH 2026 made one thing clear: The path from technological promise to affordable access is still a work in progress.",
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -73,26 +145,6 @@
       ]
     },
     {
-      "title": "FDA’s search for a new leader, and China’s largest drugmakers",
-      "url": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
-      "date": "2026-11-20",
-      "source": "STAT",
-      "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
-      "url": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
-      "date": "2026-11-20",
-      "source": "STAT",
-      "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Morning Headlines 11/20/26",
       "url": "https://histalk2.com/2026/11/19/morning-headlines-11-20-26/",
       "date": "2026-11-20",
@@ -114,36 +166,6 @@
       ]
     },
     {
-      "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
-      "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
-      "url": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
-      "url": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
-      "date": "2026-11-19",
-      "source": "STAT",
-      "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
       "title": "Republicans contend with lack of drug policy action, despite controlling Congress",
       "url": "https://www.healthcaredive.com/news/republicans-contend-with-lack-of-drug-policy-action-despite-controlling-co/875195/",
       "date": "2026-11-19",
@@ -151,108 +173,6 @@
       "summary": "Drug costs are too high, lawmakers agreed at a Senate committee hearing this week. But industry pushback and delays have stalled reform of a system experts say is rigged.",
       "tags": [
         "pol"
-      ]
-    },
-    {
-      "title": "Healthcare firms fail to monitor AI tools as shadow AI leads to breaches",
-      "url": "https://www.healthcaredive.com/news/healthcare-ai-cybersecurity-monitoring/875171/",
-      "date": "2026-11-19",
-      "source": "Healthcare Dive",
-      "summary": "The industry is embracing new technology, but security teams are stretched too thin to monitor it all.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "How Carroll County Memorial is Using AI to Reduce Staff Burden, Help Patients, and Protect Margins",
-      "url": "https://www.healthcareittoday.com/2026/11/19/how-carroll-county-memorial-is-using-ai-to-reduce-staff-burden-help-patients-and-protect-margins/",
-      "date": "2026-11-19",
-      "source": "Healthcare IT Today",
-      "summary": "Rural hospitals cannot wait for perfect market maturity to fix operational bottlenecks. Dr. Andy Horine, CMIO at Carroll County Memorial Hospital, explains how his team applies targeted AI solutions to eliminate…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Knit Health CEO on the AI startup building healthcare’s connective tissue",
-      "url": "https://www.healthcaredive.com/news/knit-health-ceo-ai-startup-building-healthcare-world-model/875031/",
-      "date": "2026-11-19",
-      "source": "Healthcare Dive",
-      "summary": "Knit announced a $35 million Series A this month — money that will accelerate the commercialization of the startup’s healthcare world model. Lots of hospitals are interested, Jonathan Kolstad said.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Why Human Review Must Remain a Designed Step in AI-Assisted Healthcare Documentation",
-      "url": "https://www.healthcareittoday.com/2026/11/19/why-human-review-must-remain-a-designed-step-in-ai-assisted-healthcare-documentation/",
-      "date": "2026-11-19",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Shaheryar Muhammad Khan, Founder & CEO at Nxthatch Technologies AI Can Draft a Record, the Workflow Must Decide When It Is Ready AI-assisted documentation can reduce repetitive data…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Sleep.ai Raises $5.3M | Proximal Ventures Announces $27.5 Million Debut Fund",
-      "url": "https://www.healthcareittoday.com/2026/11/19/sleep-ai-raises-5-3m-proximal-ventures-announces-27-5-million-debut-fund/",
-      "date": "2026-11-19",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Sleep.ai Raises $5.3M as Real-World Sleep Data Surpasses 1.1B…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/19/26",
-      "url": "https://histalk2.com/2026/11/18/morning-headlines-11-19-26/",
-      "date": "2026-11-19",
-      "source": "HIStalk",
-      "summary": "Aevius Launches with $22 Million in Funding to Make Medicine Computable Healthcare AI model development startup Aevius launches with $22 million in new funding. ‘I’m not here to declare victory’: Oracle and VA face…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "Healthcare AI News 11/18/26",
-      "url": "https://histalk2.com/2026/11/18/healthcare-ai-news-11-18-26/",
-      "date": "2026-11-18",
-      "source": "HIStalk",
-      "summary": "This column is presented by InterSystems. Learn how InterSystems helps healthcare organizations turn fragmented data into trusted, AI-ready information with solutions for interoperability, analytics, and real-time…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "From Scribes to NIA to Google Gemini: How NextGen Healthcare is Building a ‘System of Context’",
-      "url": "https://www.healthcareittoday.com/2026/11/18/from-scribes-to-nia-to-google-gemini-how-nextgen-healthcare-is-building-a-system-of-context/",
-      "date": "2026-11-18",
-      "source": "Healthcare IT Today",
-      "summary": "See how NextGen Healthcare is leveraging Google Gemini and layered AI orchestration to finally transform clinical workflows from a static \"system of record\" into an actionable \"system of context.\" This strategic pivot…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "CMS proposes sweeping reforms to curb healthcare fraud",
-      "url": "https://www.healthcaredive.com/news/cms-proposes-sweeping-reforms-to-curb-healthcare-fraud/875059/",
-      "date": "2026-11-18",
-      "source": "Healthcare Dive",
-      "summary": "The new rule would make it easier for the CMS to deny or revoke Medicare enrollment for providers suspected of fraud. It also places new restrictions on Medicaid and marketplace plans.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "AI is coming for primary care",
-      "url": "https://www.healthcaredive.com/news/ai-is-coming-for-primary-care/874966/",
-      "date": "2026-11-18",
-      "source": "Healthcare Dive",
-      "summary": "AI creates the potential for “completely autonomous self-driving doctors,” a wearables executive said at HLTH. Is the industry ready for that brave new world?",
-      "tags": [
-        "ai"
       ]
     }
   ]
