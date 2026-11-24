@@ -1,6 +1,116 @@
 {
-  "updated": "2026-11-23T22:28:24.160424+00:00",
+  "updated": "2026-11-24T21:00:06.341875+00:00",
   "items": [
+    {
+      "title": "The ROI of Readiness: What an Hour of Downtime Can Cost Your Practice",
+      "url": "https://www.healthcareittoday.com/2026/11/24/the-roi-of-readiness-what-an-hour-of-downtime-can-cost-your-practice/",
+      "date": "2026-11-24",
+      "source": "Healthcare IT Today",
+      "summary": "Healthcare organizations know downtime is a risk, but do they really understand what it can cost their practice—and whether they could recover quickly enough to keep serving patients? In our webinar, The ROI of…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "AI Patient Communication in Healthcare: What to Automate, What to Escalate, and What Must Stay Human",
+      "url": "https://www.healthcareittoday.com/2026/11/24/ai-patient-communication-in-healthcare-what-to-automate-what-to-escalate-and-what-must-stay-human/",
+      "date": "2026-11-24",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by Haylie Logan, Chief Marketing Officer, AI Answering Healthcare has spent years improving digital patient access through portals, online scheduling, automated reminders, and electronic…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
+      "url": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "IGEL Reaches Unicorn Status with Strategic Investment | Hone Health Raises $228M",
+      "url": "https://www.healthcareittoday.com/2026/11/24/igel-reaches-unicorn-status-with-strategic-investment-hone-health-raises-228m/",
+      "date": "2026-11-24",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. IGEL Reaches Unicorn Status with Strategic Investment from…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Who oversees digital health? Providers face a regulatory maze",
+      "url": "https://www.healthcaredive.com/news/who-oversees-digital-health-providers-face-a-regulatory-maze/875549/",
+      "date": "2026-11-24",
+      "source": "Healthcare Dive",
+      "summary": "Federal agencies split oversight of digital health tools, while states add their own rules on top. Experts explain how providers can navigate both without tripping up.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
+      "url": "https://www.statnews.com/pharmalot/2026/11/24/fda-cites-two-drugmakers-for-failing-to-report-clinical-trial-results/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+      "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+      "date": "2026-11-24",
+      "source": "STAT",
+      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
       "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
@@ -44,6 +154,16 @@
       ]
     },
     {
+      "title": "CMS proposes $100B cut to Medicare Advantage star ratings pay",
+      "url": "https://www.healthcaredive.com/news/cms-proposes-100b-cut-to-medicare-advantage-star-ratings-pay/875441/",
+      "date": "2026-11-23",
+      "source": "Healthcare Dive",
+      "summary": "The technical rule proposed on Friday is “almost overwhelming in size, scope, and the impact on the industry,” one analyst wrote. Litigation is all but certain.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
       "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
       "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
       "date": "2026-11-23",
@@ -64,23 +184,13 @@
       ]
     },
     {
-      "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
-      "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
-      "date": "2026-11-20",
-      "source": "STAT",
-      "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+      "title": "Bonus Features – November 22, 2026 – 95% of providers trust AI in prior auth, 79% of consumers believe AI can improve the overall healthcare experience, plus 29 more stories",
+      "url": "https://www.healthcareittoday.com/2026/11/22/bonus-features-november-22-2026-95-of-providers-trust-ai-in-prior-auth-79-of-consumers-believe-ai-can-improve-the-overall-healthcare-experience-plus-29-more-stories/",
+      "date": "2026-11-22",
+      "source": "Healthcare IT Today",
+      "summary": "Welcome to the weekly edition of Healthcare IT Today Bonus Features. This article will be a weekly roundup of interesting stories, product announcements, new hires, partnerships, research studies, awards, sales, and…",
       "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
-      "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
-      "date": "2026-11-20",
-      "source": "STAT",
-      "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
-      "tags": [
-        "pol"
+        "ai"
       ]
     },
     {
@@ -94,57 +204,6 @@
       ]
     },
     {
-      "title": "AI and affordability steal the show: 6 takeaways from HLTH",
-      "url": "https://www.healthcaredive.com/news/ai-affordability-glp-1s-longevity-hlth-2026-takeaways/875048/",
-      "date": "2026-11-20",
-      "source": "Healthcare Dive",
-      "summary": "From agentic AI to GLP-1s, HLTH 2026 made one thing clear: The path from technological promise to affordable access is still a work in progress.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "From Prior Authorization to Payment: Why Healthcare Needs an AI + FHIR Operating Layer",
-      "url": "https://www.healthcareittoday.com/2026/11/20/from-prior-authorization-to-payment-why-healthcare-needs-an-ai-fhir-operating-layer/",
-      "date": "2026-11-20",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Shridhar Rajanna, Lead Business Analyst at HealthAsyst Healthcare interoperability has made significant progress in answering one important question: How can healthcare systems…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Medicare ACO program posts $2.5B in savings as CMS pushes growth",
-      "url": "https://www.healthcaredive.com/news/medicare-aco-program-posts-25b-in-savings-as-cms-pushes-growth/875312/",
-      "date": "2026-11-20",
-      "source": "Healthcare Dive",
-      "summary": "ACOs brought in their biggest savings yet in 2025. Now, CMS wants to drive participation in the program even higher.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
-      "date": "2026-11-20",
-      "source": "STAT",
-      "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
-      "tags": [
-        "ai",
-        "pol"
-      ]
-    },
-    {
-      "title": "Commure Acquires Elaborate | Thurston Group Partners with Pixel Health",
-      "url": "https://www.healthcareittoday.com/2026/11/20/commure-acquires-elaborate-thurston-group-partners-with-pixel-health/",
-      "date": "2026-11-20",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently completed an M&A deal, and be sure to check out the full list of past healthcare IT M&A. Commure Acquires Elaborate to Cure the Clinician Inbox Brings…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
       "title": "Morning Headlines 11/20/26",
       "url": "https://histalk2.com/2026/11/19/morning-headlines-11-20-26/",
       "date": "2026-11-20",
@@ -153,26 +212,6 @@
       "tags": [
         "ai",
         "biz"
-      ]
-    },
-    {
-      "title": "News 11/20/26",
-      "url": "https://histalk2.com/2026/11/19/news-11-20-26/",
-      "date": "2026-11-19",
-      "source": "HIStalk",
-      "summary": "Top News Claude parent company Anthropic’s IPO brings in a record-breaking $81.3 billion, giving it a $1.76 trillion valuation. Healthcare customers include Banner Health, Commure, Elation Health, and Premier. It…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "Republicans contend with lack of drug policy action, despite controlling Congress",
-      "url": "https://www.healthcaredive.com/news/republicans-contend-with-lack-of-drug-policy-action-despite-controlling-co/875195/",
-      "date": "2026-11-19",
-      "source": "Healthcare Dive",
-      "summary": "Drug costs are too high, lawmakers agreed at a Senate committee hearing this week. But industry pushback and delays have stalled reform of a system experts say is rigged.",
-      "tags": [
-        "pol"
       ]
     }
   ]
