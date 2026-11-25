@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-24T21:00:06.341875+00:00",
+  "updated": "2026-11-25T20:23:45.368142+00:00",
   "items": [
+    {
+      "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
+      "url": "https://www.healthcaredive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875783/",
+      "date": "2026-11-25",
+      "source": "Healthcare Dive",
+      "summary": "Drugs nearing or past patent expiration are facing steep cuts as the Inflation Reduction Act expands the number of medicines subject to cost controls.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Tucuvi Uses AI to Automate Work and Expand Clinical Capacity",
+      "url": "https://www.healthcareittoday.com/2026/11/25/tucuvi-uses-ai-to-automate-work-and-expand-clinical-capacity/",
+      "date": "2026-11-25",
+      "source": "Healthcare IT Today",
+      "summary": "Tucuvi offers a broad palatte of tools for automation. María González Manso, Co-founder and CEO, describes in our interview at CHIME Fall Forum how Tucuvi hopes to go beyond automation to “augment what clinicians can…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Healthcare IT Infrastructure is Becoming a Strategic Decision: What Leaders Need to Consider Before the Next Technology Investment",
+      "url": "https://www.healthcareittoday.com/2026/11/25/healthcare-it-infrastructure-is-becoming-a-strategic-decision-what-leaders-need-to-consider-before-the-next-technology-investment/",
+      "date": "2026-11-25",
+      "source": "Healthcare IT Today",
+      "summary": "The following is a guest article by Shammi Thakur, Research Director at Vyansa Intelligence Healthcare organizations often treat infrastructure as a technical refresh: replace aging hardware, renew software, expand…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
+      "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+      "date": "2026-11-25",
+      "source": "STAT",
+      "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Inside HLTH 2026",
+      "url": "https://www.healthcaredive.com/news/inside-hlth-conference-2026/875665/",
+      "date": "2026-11-25",
+      "source": "Healthcare Dive",
+      "summary": "From care delivery to costs, AI is reshaping every corner of healthcare. Healthcare Dive's reporters break down the biggest questions and takeaways from this year's HLTH.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Just a handful of payers control US health insurance markets, AMA warns",
+      "url": "https://www.healthcaredive.com/news/just-a-handful-of-payers-control-us-health-insurance-markets-ama-warns/875719/",
+      "date": "2026-11-25",
+      "source": "Healthcare Dive",
+      "summary": "New data from the physician lobby finds 95% of metro health insurance markets are still highly concentrated, fueling calls for regulatory scrutiny.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "Rural health orgs keep pace with chronic care demand, but Medicaid cuts could change that",
+      "url": "https://www.healthcaredive.com/news/rural-health-orgs-keep-pace-with-chronic-care-demand-but-medicaid-cuts-cou/875567/",
+      "date": "2026-11-24",
+      "source": "Healthcare Dive",
+      "summary": "While rural healthcare providers are managing to meet the rising demand for chronic care, upcoming Medicaid cuts could complicate matters.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "The ROI of Readiness: What an Hour of Downtime Can Cost Your Practice",
       "url": "https://www.healthcareittoday.com/2026/11/24/the-roi-of-readiness-what-an-hour-of-downtime-can-cost-your-practice/",
@@ -140,78 +210,6 @@
       "tags": [
         "biz",
         "pol"
-      ]
-    },
-    {
-      "title": "Ortet Launches With $500 Million Commitment from Thoreau | Vitalize Raises $31M Series A",
-      "url": "https://www.healthcareittoday.com/2026/11/23/ortet-launches-with-500-million-commitment-from-thoreau-vitalize-raises-31m-series-a/",
-      "date": "2026-11-23",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Ortet Launches as Frontier AI Lab for Health With $500 Million…",
-      "tags": [
-        "ai",
-        "biz"
-      ]
-    },
-    {
-      "title": "CMS proposes $100B cut to Medicare Advantage star ratings pay",
-      "url": "https://www.healthcaredive.com/news/cms-proposes-100b-cut-to-medicare-advantage-star-ratings-pay/875441/",
-      "date": "2026-11-23",
-      "source": "Healthcare Dive",
-      "summary": "The technical rule proposed on Friday is “almost overwhelming in size, scope, and the impact on the industry,” one analyst wrote. Litigation is all but certain.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
-      "url": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
-      "date": "2026-11-23",
-      "source": "STAT",
-      "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/23/26",
-      "url": "https://histalk2.com/2026/11/22/morning-headlines-11-23-26/",
-      "date": "2026-11-22",
-      "source": "HIStalk",
-      "summary": "Electronic health records contain information that may help predict pregnancy complications Kaiser Permanente researchers find that using existing EHR data can help train AI models on identifying first-trimester…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Bonus Features – November 22, 2026 – 95% of providers trust AI in prior auth, 79% of consumers believe AI can improve the overall healthcare experience, plus 29 more stories",
-      "url": "https://www.healthcareittoday.com/2026/11/22/bonus-features-november-22-2026-95-of-providers-trust-ai-in-prior-auth-79-of-consumers-believe-ai-can-improve-the-overall-healthcare-experience-plus-29-more-stories/",
-      "date": "2026-11-22",
-      "source": "Healthcare IT Today",
-      "summary": "Welcome to the weekly edition of Healthcare IT Today Bonus Features. This article will be a weekly roundup of interesting stories, product announcements, new hires, partnerships, research studies, awards, sales, and…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Margins hit new low as hospitals brace for uninsured surge",
-      "url": "https://www.healthcaredive.com/news/margins-hit-new-low-as-hospitals-brace-for-uninsured-surge/875353/",
-      "date": "2026-11-20",
-      "source": "Healthcare Dive",
-      "summary": "Nearly half of hospitals and health systems are now losing money, according to Kaufman Hall. With Medicaid reform looming, uncompensated care could push even more facilities into the red.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Morning Headlines 11/20/26",
-      "url": "https://histalk2.com/2026/11/19/morning-headlines-11-20-26/",
-      "date": "2026-11-20",
-      "source": "HIStalk",
-      "summary": "Anthropic closes debut with $1.8 trillion market cap in landmark moment for AI Claude parent company Anthropic’s IPO raises a record-breaking $81.3 billion, giving it a $1.76 trillion valuation. Adjective Health…",
-      "tags": [
-        "ai",
-        "biz"
       ]
     }
   ]
