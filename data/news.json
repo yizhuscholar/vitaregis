@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-25T20:23:45.368142+00:00",
+  "updated": "2026-11-26T19:59:55.039734+00:00",
   "items": [
+    {
+      "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+      "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+      "date": "2026-11-25",
+      "source": "STAT",
+      "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
+      "url": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
+      "date": "2026-11-25",
+      "source": "STAT",
+      "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
       "url": "https://www.healthcaredive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875783/",
@@ -178,37 +198,6 @@
       "source": "STAT",
       "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
       "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
-      "url": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
-      "date": "2026-11-23",
-      "source": "STAT",
-      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "Healthcare Data Standards and AI – Healthcare IT Today Podcast Episode 205",
-      "url": "https://www.healthcareittoday.com/2026/11/23/healthcare-data-standards-and-ai-healthcare-it-today-podcast-episode-205/",
-      "date": "2026-11-23",
-      "source": "Healthcare IT Today",
-      "summary": "For the 205th episode of the Healthcare IT Today Podcast, I am joined by special guest host David Pyke, Standards Architect at Pyke Health IT, to talk about healthcare data standards and AI! We kick this episode off by…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
-      "url": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
-      "date": "2026-11-23",
-      "source": "STAT",
-      "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
-      "tags": [
-        "biz",
         "pol"
       ]
     }
