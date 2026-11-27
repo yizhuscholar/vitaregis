@@ -1,6 +1,56 @@
 {
-  "updated": "2026-11-26T19:59:55.039734+00:00",
+  "updated": "2026-11-27T19:49:19.670761+00:00",
   "items": [
+    {
+      "title": "Beyond the Scribe: The “360 Clinic Visit” & Ontario’s Centralized EMR Push for Primary Care",
+      "url": "https://www.healthcareittoday.com/2026/11/27/beyond-the-scribe-the-360-clinic-visit-ontarios-centralized-emr-push-for-primary-care/",
+      "date": "2026-11-27",
+      "source": "Healthcare IT Today",
+      "summary": "Primary care clinics are outgrowing standalone AI scribes, yet fragmented EMRs and solo software negotiations still leave physicians juggling disconnected screens and inconsistent vendor pricing. OntarioMD CEO Robert…",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+      "url": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+      "date": "2026-11-27",
+      "source": "STAT",
+      "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+      "tags": [
+        "pol"
+      ]
+    },
+    {
+      "title": "STAT+: Here are some health AI conversation starters for the holidays",
+      "url": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+      "date": "2026-11-27",
+      "source": "STAT",
+      "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Healthleap Raises $38M | Symmetric Health Solutions Secures Significant Growth Investment",
+      "url": "https://www.healthcareittoday.com/2026/11/27/healthleap-raises-38m-symmetric-health-solutions-secures-significant-growth-investment/",
+      "date": "2026-11-27",
+      "source": "Healthcare IT Today",
+      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. Healthleap Raises $38M to Help Hospitals Find Patients with…",
+      "tags": [
+        "biz"
+      ]
+    },
+    {
+      "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+      "url": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+      "date": "2026-11-27",
+      "source": "STAT",
+      "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
+      "tags": [
+        "pol"
+      ]
+    },
     {
       "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
       "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
@@ -92,26 +142,6 @@
       ]
     },
     {
-      "title": "The ROI of Readiness: What an Hour of Downtime Can Cost Your Practice",
-      "url": "https://www.healthcareittoday.com/2026/11/24/the-roi-of-readiness-what-an-hour-of-downtime-can-cost-your-practice/",
-      "date": "2026-11-24",
-      "source": "Healthcare IT Today",
-      "summary": "Healthcare organizations know downtime is a risk, but do they really understand what it can cost their practice—and whether they could recover quickly enough to keep serving patients? In our webinar, The ROI of…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
-      "title": "AI Patient Communication in Healthcare: What to Automate, What to Escalate, and What Must Stay Human",
-      "url": "https://www.healthcareittoday.com/2026/11/24/ai-patient-communication-in-healthcare-what-to-automate-what-to-escalate-and-what-must-stay-human/",
-      "date": "2026-11-24",
-      "source": "Healthcare IT Today",
-      "summary": "The following is a guest article by Haylie Logan, Chief Marketing Officer, AI Answering Healthcare has spent years improving digital patient access through portals, online scheduling, automated reminders, and electronic…",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
       "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss",
       "date": "2026-11-24",
@@ -142,16 +172,6 @@
       ]
     },
     {
-      "title": "IGEL Reaches Unicorn Status with Strategic Investment | Hone Health Raises $228M",
-      "url": "https://www.healthcareittoday.com/2026/11/24/igel-reaches-unicorn-status-with-strategic-investment-hone-health-raises-228m/",
-      "date": "2026-11-24",
-      "source": "Healthcare IT Today",
-      "summary": "Check out today’s featured companies who have recently raised a round of funding, and be sure to check out the full list of past healthcare IT fundings. IGEL Reaches Unicorn Status with Strategic Investment from…",
-      "tags": [
-        "biz"
-      ]
-    },
-    {
       "title": "Who oversees digital health? Providers face a regulatory maze",
       "url": "https://www.healthcaredive.com/news/who-oversees-digital-health-providers-face-a-regulatory-maze/875549/",
       "date": "2026-11-24",
@@ -167,36 +187,6 @@
       "date": "2026-11-24",
       "source": "STAT",
       "summary": "For the first time in more than a year, the FDA sent notices to companies for failing to report required clinical trial information.",
-      "tags": [
-        "pol"
-      ]
-    },
-    {
-      "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-      "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-      "date": "2026-11-24",
-      "source": "STAT",
-      "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-      "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
-      "date": "2026-11-24",
-      "source": "STAT",
-      "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-      "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
-      "date": "2026-11-24",
-      "source": "STAT",
-      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
       "tags": [
         "pol"
       ]
